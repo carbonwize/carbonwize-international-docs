@@ -1,6 +1,0 @@
----
-description: company descript
----
-
-# company
-
