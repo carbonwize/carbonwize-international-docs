@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Carbonwize](README.md)
+* [Carbonwize-en](en/README.md)
