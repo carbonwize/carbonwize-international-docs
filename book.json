@@ -1,6 +1,6 @@
 {
-    "title": "My Project Documentation",
-    "author": "Author Name",
+    "title": "carbonwize-international-docs",
+    "author": "Panatjkorn Phanudeja",
     "language": "en",
     "plugins": ["language-picker"],
     "pluginsConfig": {
