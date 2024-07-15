@@ -1,0 +1,20 @@
+{
+    "author": "SuperSuRaccoon",
+    "links": {
+        "sidebar": {
+            "English": "https://build3-1.gitbook.io/carbonwize-doc/v/english/"
+        }
+    },
+    "plugins" : 
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "-search-pro",
+        "language-picker@https://github.com/okalachev/gitbook-plugin-language-picker.git"
+    ]
+}
