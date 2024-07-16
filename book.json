@@ -1,7 +1,7 @@
 {
     "title": "Carbonwize international docs",
     "author": "Carbonwize",
-    "language": "th",
+    "language": "en",
     "plugins": ["language-picker","redirect"],
     "pluginsConfig": {
         "language-picker": {
@@ -21,8 +21,8 @@
     },
     "redirect": {
       "redirects": {
-        "/en/": "/en/README.md",
-        "/": "/README.md"
+        "/": "/README.md",
+        "/en/": "/en/README.md"
       }
     }
   }
