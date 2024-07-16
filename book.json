@@ -1,7 +1,7 @@
 {
     "title": "Carbonwize international docs",
     "author": "Carbonwize",
-    "language": "en",
+    "language": "th",
     "plugins": ["language-picker","redirect"],
     "pluginsConfig": {
         "language-picker": {
