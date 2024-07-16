@@ -1,2 +1,2 @@
-* [English](en)
 * [ภาษาไทย](/)
+* [English](en)

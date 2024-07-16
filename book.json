@@ -7,14 +7,14 @@
         "language-picker": {
           "languages": [
             {
-              "label": "English",
-              "lang": "en",
-              "path": "/en/"
-            },
-            {
               "label": "ภาษาไทย",
               "lang": "th",
               "path": "/"
+            },
+            {
+              "label": "English",
+              "lang": "en",
+              "path": "/en/"
             }
           ]
         }
