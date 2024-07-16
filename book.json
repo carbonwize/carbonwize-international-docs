@@ -1,8 +1,8 @@
 {
-    "title": "My Project Documentation",
-    "author": "Author Name",
+    "title": "Carbonwize international docs",
+    "author": "Carbonwize",
     "language": "en",
-    "plugins": ["language-picker"],
+    "plugins": ["language-picker","redirect"],
     "pluginsConfig": {
         "language-picker": {
           "languages": [
@@ -18,6 +18,12 @@
             }
           ]
         }
+    },
+    "redirect": {
+      "redirects": {
+        "/en/": "/en/README.md",
+        "/": "/README.md"
+      }
     }
   }
   

@@ -1,0 +1,11 @@
+{
+  "name": "carbonwize-international-docs",
+  "version": "1.0.0",
+  "description": "Carbonwize คือ แพลทฟอร์มบัญชีคาร์บอนฟุตพริ้นท์ ที่จะช่วยให้องค์กรสามารถประเมินคาร์บอนฟุตพริ้ท์ได้ง่ายและได้มาตรฐานด้านสิ่งแวดล้อม",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
