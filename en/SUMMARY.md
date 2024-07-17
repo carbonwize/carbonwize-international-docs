@@ -49,7 +49,7 @@
 * [📝 iOS installation process](platformguides-1/data-input.md)
 * [💡 Login process](platformguides-1/undefined-2.md)
 * [📋 Data addition process](platformguides-1/undefined-3.md)
-* [📋 ขั้นตอนการแก้ไขข้อมูล](platformguides-1/undefined-4.md)
+* [📋 Data modification process](platformguides-1/undefined-4.md)
 * [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Auditor <a href="#platformguides" id="platformguides"></a>
