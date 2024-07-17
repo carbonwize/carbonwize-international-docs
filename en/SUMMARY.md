@@ -45,7 +45,7 @@
 ## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
 
 * [✍️ Sign up for the platform via mobile](platformguides-1/undefined-1.md)
-* [📝 ขั้นตอนการติดตั้งระบบ Android](platformguides-1/android.md)
+* [📝 Android system installation process](platformguides-1/android.md)
 * [📝 ขั้นตอนการติดตั้งระบบ iOS](platformguides-1/data-input.md)
 * [💡 ขั้นตอนการเข้าสู่ระบบ](platformguides-1/undefined-2.md)
 * [📋 ขั้นตอนการเพิ่มข้อมูล](platformguides-1/undefined-3.md)
