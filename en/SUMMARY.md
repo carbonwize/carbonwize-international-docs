@@ -2,14 +2,14 @@
 
 * [👋 Welcome to Carbonwize](README.md)
 
-## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
+## Basic Information <a href="#getting-started" id="getting-started"></a>
 
 * [✍️ Book demo](getting-started/book-demo.md)
 * [✍️ Register (Beta)](getting-started/registration.md)
 * [✍️ Change Password](getting-started/reset-password.md)
 * [👩‍🔧 Roles and Responsibilities](getting-started/roles-and-responsibilities.md)
 
-## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
+## User Manual for the Platform <a href="#platformguides" id="platformguides"></a>
 
 * [💡 Get started](platformguides/undefined/README.md)
   * [🔸 Simple setup](platformguides/undefined/easy.md)
@@ -42,7 +42,7 @@
 * [🗂️ Data verification](platformguides/undefined-3.md)
 * [🗂️ Export verification report](platformguides/export.md)
 
-## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
+## User Manual for the Mobile Platform <a href="#platformguides" id="platformguides"></a>
 
 * [✍️ Sign up for the platform via mobile](platformguides-1/undefined-1.md)
 * [📝 Android system installation process](platformguides-1/android.md)
@@ -52,13 +52,13 @@
 * [📋 Data modification process](platformguides-1/undefined-4.md)
 * [📇 Profile page](platformguides-1/undefined-5.md)
 
-## คู่มือการใช้งานแพลทฟอร์ม Auditor <a href="#platformguides" id="platformguides"></a>
+## User Manual for the Auditor Platform <a href="#platformguides" id="platformguides"></a>
 
 * [📬 Steps to register as an Auditor at Carbonwize](platformguides-2/auditor-at-cwallet.md)
 * [Steps to accept the invitation to be an auditor for the company](platformguides-2/undefined-1.md)
-* [ขั้นตอนการเข้าสู่ระบบ](platformguides-2/undefined.md)
-* [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
-  * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
+* [Steps to Log In](platformguides-2/undefined.md)
+* [🗂️ Verify Data](platformguides-2/undefined-2/README.md)
+  * [📈 Overview of the Organization](platformguides-2/undefined-2/undefined-1.md)
 * [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
 
 ## เกร็ดความรู้ <a href="#tips" id="tips"></a>
