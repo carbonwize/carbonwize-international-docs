@@ -23,7 +23,7 @@
     * [Department structure setup](platformguides/setup/undefined-1/undefined-1-1.md)
   * [List of activities](platformguides/setup/undefined-2.md)
   * [User account management](platformguides/setup/undefined-3/README.md)
-    * [การตั้งค่าบทบาทอย่างละเอียด](platformguides/setup/undefined-3/undefined.md)
+    * [Detailed role configuration](platformguides/setup/undefined-3/undefined.md)
     * [การมอบหมายงาน](platformguides/setup/undefined-3/undefined-1.md)
     * [ขั้นตอนการเชิญผู้ทวนสอบเข้าบริษัท](platformguides/setup/undefined-3/undefined-2.md)
 * [📝 การกรอกข้อมูล](platformguides/data-input/README.md)
