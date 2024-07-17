@@ -39,7 +39,7 @@
 * [📊 Emission Factor](platformguides/emission-factor/README.md)
   * [Define your own emission factor](platformguides/emission-factor/emission-factor.md)
   * [Identification of greenhouse gas emissions(EF)](platformguides/emission-factor/ef.md)
-* [🗂️ ทวนสอบข้อมูล](platformguides/undefined-3.md)
+* [🗂️ Data verification](platformguides/undefined-3.md)
 * [🗂️ Export รายงานข้อมูลทวนสอบ](platformguides/export.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
