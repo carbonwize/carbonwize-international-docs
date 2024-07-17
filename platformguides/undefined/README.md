@@ -6,6 +6,6 @@
 [easy.md](easy.md)
 {% endcontent-ref %}
 
-{% content-ref url="detailed.md" %}
-[detailed.md](detailed.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

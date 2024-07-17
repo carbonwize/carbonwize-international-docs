@@ -20,6 +20,6 @@ Carbonwize คือ แพลทฟอร์มบัญชีคาร์บ�
 [easy.md](platformguides/undefined/easy.md)
 {% endcontent-ref %}
 
-{% content-ref url="platformguides/undefined/detailed.md" %}
-[detailed.md](platformguides/undefined/detailed.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
