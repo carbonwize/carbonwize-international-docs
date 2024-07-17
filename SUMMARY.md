@@ -4,9 +4,11 @@
 
 ## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
 
-* [✍️ Book demo](getting-started/book-demo.md)
-* [✍️ ลงทะเบียนใช้งาน (Beta)](getting-started/registration.md)
-* [✍️ เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
+* [✍️ Become a partner](getting-started/book-demo.md)
+* [✍️ Contact us](getting-started/registration.md)
+* [💻 Login](getting-started/login.md)
+* [🔐 เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
+* [🔐 ลืมรหัสผ่าน](getting-started/undefined.md)
 * [👩‍🔧 บทบาทและหน้าที่](getting-started/roles-and-responsibilities.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
