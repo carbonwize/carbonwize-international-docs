@@ -7,7 +7,7 @@
 * [✍️ Book demo](getting-started/book-demo.md)
 * [✍️ Register (Beta)](getting-started/registration.md)
 * [✍️ Change Password](getting-started/reset-password.md)
-* [👩‍🔧 บทบาทและหน้าที่](getting-started/roles-and-responsibilities.md)
+* [👩‍🔧 Roles and Responsibilities](getting-started/roles-and-responsibilities.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
