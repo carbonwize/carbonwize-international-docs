@@ -47,7 +47,7 @@
 * [✍️ Sign up for the platform via mobile](platformguides-1/undefined-1.md)
 * [📝 Android system installation process](platformguides-1/android.md)
 * [📝 iOS installation process](platformguides-1/data-input.md)
-* [💡 ขั้นตอนการเข้าสู่ระบบ](platformguides-1/undefined-2.md)
+* [💡 Login process](platformguides-1/undefined-2.md)
 * [📋 ขั้นตอนการเพิ่มข้อมูล](platformguides-1/undefined-3.md)
 * [📋 ขั้นตอนการแก้ไขข้อมูล](platformguides-1/undefined-4.md)
 * [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
