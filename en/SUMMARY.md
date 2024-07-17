@@ -59,11 +59,11 @@
 * [Steps to Log In](platformguides-2/undefined.md)
 * [🗂️ Verify Data](platformguides-2/undefined-2/README.md)
   * [📈 Overview of the Organization](platformguides-2/undefined-2/undefined-1.md)
-* [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
+* [Profile Page](platformguides-2/undefined-3.md)
 
-## เกร็ดความรู้ <a href="#tips" id="tips"></a>
+## &#x20;Trivia <a href="#tips" id="tips"></a>
 
-* [📙 คำศัพท์ที่ควรรู้](tips/vocabulary.md)
+* [📙 Essential Vocabulary](tips/vocabulary.md)
 
 ***
 
