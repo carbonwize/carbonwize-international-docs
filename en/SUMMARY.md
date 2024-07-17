@@ -50,7 +50,7 @@
 * [💡 Login process](platformguides-1/undefined-2.md)
 * [📋 Data addition process](platformguides-1/undefined-3.md)
 * [📋 Data modification process](platformguides-1/undefined-4.md)
-* [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
+* [📇 Profile page](platformguides-1/undefined-5.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Auditor <a href="#platformguides" id="platformguides"></a>
 
