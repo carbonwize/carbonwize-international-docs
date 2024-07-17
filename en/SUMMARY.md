@@ -27,7 +27,7 @@
     * [Task assignment](platformguides/setup/undefined-3/undefined-1.md)
     * [Steps to invite reviewers to the company](platformguides/setup/undefined-3/undefined-2.md)
 * [📝 Data entry](platformguides/data-input/README.md)
-  * [ข้อมูลฉบับร่าง](platformguides/data-input/undefined.md)
+  * [Draft data](platformguides/data-input/undefined.md)
   * [ส่งคำขออนุมัติ](platformguides/data-input/undefined-1.md)
 * [🔀 Import data & Import file](platformguides/import-and-export.md)
 * [🔀 Export data](platformguides/export-data.md)
