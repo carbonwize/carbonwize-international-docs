@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. เข้าหน้าเว็บ [https://www.carbonwize.io/](https://www.carbonwize.io/) ผ่าน Google Chrome หรือ Safari
+1. เข้าหน้าเว็บ [https://www.carbonwize.io/](https://www.carbonwize.io/)&#x20;
 2. กดปุ่ม [Become a partner](https://www.carbonwize.io/become-partner)
 
 
