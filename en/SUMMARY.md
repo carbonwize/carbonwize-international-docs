@@ -15,7 +15,7 @@
   * [🔸 Simple setup](platformguides/undefined/easy.md)
   * [🔹 Detailed setup](platformguides/undefined/detailed.md)
 * [📈 Overview of the organization](platformguides/undefined-1.md)
-* [⚙️ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
+* [⚙️ Usage settings](platformguides/setup/README.md)
   * [การตั้งค่าโครงสร้างบริษัท](platformguides/setup/undefined.md)
   * [การตั้งค่าโครงสร้างองค์กร](platformguides/setup/undefined-1/README.md)
     * [การตั้งค่าโครงสร้างสาขา](platformguides/setup/undefined-1/undefined.md)
