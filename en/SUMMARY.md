@@ -35,7 +35,7 @@
   * [Item approval process](platformguides/approve-items/undefined.md)
   * [Item disapproval process](platformguides/approve-items/undefined-1.md)
   * [Item modification request process](platformguides/approve-items/undefined-2.md)
-* [📋 บันทึกการทำธุรกรรม](platformguides/undefined-2.md)
+* [📋 Transaction record](platformguides/undefined-2.md)
 * [📊 Emission Factor](platformguides/emission-factor/README.md)
   * [กำหนด Emission Factor เอง](platformguides/emission-factor/emission-factor.md)
   * [การระบุค่าการปล่อยก๊าซเรือนกระจก (EF)](platformguides/emission-factor/ef.md)
