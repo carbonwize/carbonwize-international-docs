@@ -20,7 +20,7 @@
   * [Setting up organizational structure](platformguides/setup/undefined-1/README.md)
     * [Branch structure setup](platformguides/setup/undefined-1/undefined.md)
     * [Building structure setup](platformguides/setup/undefined-1/undefined-1.md)
-    * [การตั้งค่าโครงสร้างแผนก](platformguides/setup/undefined-1/undefined-1-1.md)
+    * [Department structure setup](platformguides/setup/undefined-1/undefined-1-1.md)
   * [รายการกิจกรรม](platformguides/setup/undefined-2.md)
   * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
     * [การตั้งค่าบทบาทอย่างละเอียด](platformguides/setup/undefined-3/undefined.md)
