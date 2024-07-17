@@ -5,7 +5,7 @@
 ## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
 
 * [✍️ Book demo](getting-started/book-demo.md)
-* [✍️ ลงทะเบียนใช้งาน (Beta)](getting-started/registration.md)
+* [✍️ Register (Beta)](getting-started/registration.md)
 * [✍️ เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
 * [👩‍🔧 บทบาทและหน้าที่](getting-started/roles-and-responsibilities.md)
 
