@@ -13,7 +13,7 @@
 
 * [💡 Get started](platformguides/undefined/README.md)
   * [🔸 Simple setup](platformguides/undefined/easy.md)
-  * [🔹 การตั้งค่าแบบละเอียด](platformguides/undefined/detailed.md)
+  * [🔹 Detailed setup](platformguides/undefined/detailed.md)
 * [📈 ภาพรวมขององค์กร](platformguides/undefined-1.md)
 * [⚙️ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
   * [การตั้งค่าโครงสร้างบริษัท](platformguides/setup/undefined.md)
