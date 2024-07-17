@@ -19,7 +19,7 @@
   * [Company structure setup](platformguides/setup/undefined.md)
   * [Setting up organizational structure](platformguides/setup/undefined-1/README.md)
     * [Setting up branch structure](platformguides/setup/undefined-1/undefined.md)
-    * [การตั้งค่าโครงสร้างอาคาร](platformguides/setup/undefined-1/undefined-1.md)
+    * [Building structure setup](platformguides/setup/undefined-1/undefined-1.md)
     * [การตั้งค่าโครงสร้างแผนก](platformguides/setup/undefined-1/undefined-1-1.md)
   * [รายการกิจกรรม](platformguides/setup/undefined-2.md)
   * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
