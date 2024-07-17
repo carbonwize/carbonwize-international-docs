@@ -11,7 +11,7 @@
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
-* [💡 เริ่มต้นการใช้งาน](platformguides/undefined/README.md)
+* [💡 Get started](platformguides/undefined/README.md)
   * [🔸 การตั้งค่าแบบง่าย](platformguides/undefined/easy.md)
   * [🔹 การตั้งค่าแบบละเอียด](platformguides/undefined/detailed.md)
 * [📈 ภาพรวมขององค์กร](platformguides/undefined-1.md)
