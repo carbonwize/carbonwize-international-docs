@@ -1,8 +1,6 @@
-# การตั้งค่าโครงสร้างบริษัท
+# การตั้งค่าการเก็บข้อมูลองค์กร
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-## การตั้งค่าการเก็บข้อมูลองค์กร
 
 1. กดที่ icon&#x20;
 
