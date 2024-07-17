@@ -12,7 +12,7 @@
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
 * [💡 Get started](platformguides/undefined/README.md)
-  * [🔸 การตั้งค่าแบบง่าย](platformguides/undefined/easy.md)
+  * [🔸 Simple setup](platformguides/undefined/easy.md)
   * [🔹 การตั้งค่าแบบละเอียด](platformguides/undefined/detailed.md)
 * [📈 ภาพรวมขององค์กร](platformguides/undefined-1.md)
 * [⚙️ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
