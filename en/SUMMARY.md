@@ -33,7 +33,7 @@
 * [🔀 Export data](platformguides/export-data.md)
 * [✅ Item approval](platformguides/approve-items/README.md)
   * [Item approval process](platformguides/approve-items/undefined.md)
-  * [ขั้นตอนการไม่อนุมัติรายการ](platformguides/approve-items/undefined-1.md)
+  * [Item disapproval process](platformguides/approve-items/undefined-1.md)
   * [ขั้นตอนการขอแก้ไขรายการ](platformguides/approve-items/undefined-2.md)
 * [📋 บันทึกการทำธุรกรรม](platformguides/undefined-2.md)
 * [📊 Emission Factor](platformguides/emission-factor/README.md)
