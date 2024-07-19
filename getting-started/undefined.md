@@ -1,34 +1,14 @@
-# 🔐 ลืมรหัสผ่าน
+# 💻 Login
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่มลืมรหัสผ่าน
-
-
-
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกอีเมล เพื่อรีเซ็ตรหัสผ่าน
-2. กดปุ่มรีเซ็ตรหัสผ่าน
+1. เข้าหน้าเว็บ [https://www.carbonwize.io/](https://www.carbonwize.io/)&#x20;
+2. กดปุ่ม [Login](https://app.carbonwize.io/)
 
 
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screencapture-app-carbonwize-io-2024-07-17-17_19_39.png" alt=""><figcaption></figcaption></figure>
 
-1. ตรวจสอบอีเมล เพื่อรีเซ็ตรหัสผ่าน
-
-
-
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
-
-1. กดปุ่ม Reset password
-
-
-
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกรหัสผ่านใหม่ (ตามข้อกำหนดด้านล่าง)
-2. กรอกยืนยันรหัสผ่าน
-3. กดปุ่มรีเซ็ตรหัสผ่าน
-
-✅ เข้าสู่ระบบโดยใช้ระรหัสใหม่เท่านั้น
+1. กรอกอีเมล
+2. กรอกรหัสผ่าน
+3. กดปุ่มเข้าสู่ระบบ
