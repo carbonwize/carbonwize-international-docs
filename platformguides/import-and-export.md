@@ -4,7 +4,7 @@
 
 ### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import data
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. สร้างรายการตรวจวัดเสร็จเรียบร้อย
 2. ค้นหารายการที่ต้องการ Import data
@@ -77,7 +77,7 @@
 
 ### Import file คือการอัปโหลดไฟล์เอกสารแนบเข้าในรายการกิจกรรม
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ก่อน Import file ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Import file โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-and-export.md#import-data)
 

@@ -8,9 +8,7 @@
 2. กดแท็บ รออนุมัติ
 3. กดเลือกรายการที่ต้องการอนุมัติ
 
-
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### ตรวจเช็คข้อมูลรายการ
 
@@ -18,8 +16,6 @@
 2. จำนวน
 3. เอกสารประกอบข้อมูล
 4. กดปุ่ม อนุมัติ
-
-
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
