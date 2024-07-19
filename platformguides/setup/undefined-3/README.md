@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเมนูตั้งค่าการใช้งาน
 2. กดปุ่มเมนูจัดการบัญชีผู้ใช้
@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกชื่อ
 2. กรอกนามสกุล
@@ -23,7 +23,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อกดปุ่มบันทึกการเพิ่มสมาชิกแล้ว ระบบจะแสดง popup รหัสผ่านของสมาชิก สามารถกดปุ่ม คัดลอก เพื่อส่งรหัสในการเข้าใช้ระบบให้กับสมาชิกได้ทันที
 2. สามารถเลือกการบังคับเปลี่ยนรหัสผ่านในการเข้าสู่ระบบครั้งถัดไปได้

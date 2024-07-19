@@ -17,7 +17,7 @@
 3. เอกสารประกอบข้อมูล
 4. กดปุ่ม ไม่อนุมัติ
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### ไม่อนุมัติรายการ
 

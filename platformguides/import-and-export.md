@@ -16,7 +16,7 @@
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **กรุณาอ่านรายละเอียดและกรอกข้อมูลให้ครบถ้วนก่อน Import data**
 
@@ -33,7 +33,7 @@
 
 ### ขั้นตอนการ Import data
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้า กรอกข้อมูลรายการตรวจวัด
 2. กดปุ่ม Import data หรือ นำเข้าข้อมูล
