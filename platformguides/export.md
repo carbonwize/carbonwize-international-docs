@@ -16,4 +16,4 @@
 
 <figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
-1. ข้อมูลทวนสอบที่ Export ออกมาจะแสดงตามประเภทไฟล์ที่เลือก
+✅ ข้อมูลทวนสอบที่ Export ออกมาจะแสดงตามประเภทไฟล์ที่เลือก
