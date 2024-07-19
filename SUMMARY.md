@@ -19,7 +19,7 @@
   * [การตั้งค่าการเก็บข้อมูลองค์กร](platformguides/setup/undefined.md)
   * [การตั้งค่าองค์กร](platformguides/setup/undefined-1/README.md)
     * [การตั้งค่าสาขา](platformguides/setup/undefined-1/undefined.md)
-    * [การตั้งค่าโครงสร้างอาคาร](platformguides/setup/undefined-1/undefined-1.md)
+    * [การตั้งค่าอาคาร](platformguides/setup/undefined-1/undefined-1.md)
     * [การตั้งค่าโครงสร้างแผนก](platformguides/setup/undefined-1/undefined-1-1.md)
   * [รายการกิจกรรม](platformguides/setup/undefined-2.md)
   * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
