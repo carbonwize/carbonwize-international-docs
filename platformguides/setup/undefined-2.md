@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการสร้างรายการกิจกรรม**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูตั้งค่าการใช้งาน
 2. กดเมนูรายการกิจกรรม

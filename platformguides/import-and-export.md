@@ -33,21 +33,21 @@
 
 ### ขั้นตอนการ Import data
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้า กรอกข้อมูลรายการตรวจวัด
 2. กดปุ่ม Import data หรือ นำเข้าข้อมูล
 3. เลือก Import data หรือ นำเข้าข้อมูล
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ถัดไป
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. คลิ๊กเพื่อเลือกไฟล์ที่เตรียมไว้สำหรับ Import
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกไฟล์สำหรับ Import
 
