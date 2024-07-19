@@ -14,7 +14,7 @@
 
 #### หลังจาก Export รายการออกมาแล้ว ให้ใส่ข้อมูลให้ครบถ้วนตาม Format ในไฟล์ที่ได้ทำการ Export ออกมา
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 

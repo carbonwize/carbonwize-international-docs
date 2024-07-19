@@ -1,23 +1,23 @@
-# ขั้นตอนการเชิญผู้ทวนสอบเข้าบริษัท
+# เพิ่มผู้ทวนสอบ
 
-<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนู ตั้งค่ากานใช้งาน
-2. กดเมนู จัดการบัญชีผู้ใช้
-3. กดแท็บ เพิ่มผู้ทวนสอบ
-4. กดปุ่ม เพิ่มผู้ทวนสอบ
+1. กดเมนูตั้งค่าการใช้งาน
+2. กดเมนูจัดการบัญชีผู้ใช้
+3. กดแท็บเพิ่มผู้ทวนสอบ
+4. กดปุ่มเพิ่มผู้ทวนสอบ
 
 
 
-<figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกอีเมลของผู้ทวนสอบ
 2. เลือกประเภทผู้ทวนสอบ
-3. กดปุ่ม เพิ่ม
-4. เมื่อเพิ่มผู้ทวนสอบแล้ว ต้องรอการตอบกลับจาก ผู้ทวนสอบอีกครั้ง
+3. กดปุ่มเพิ่ม
+4. เมื่อเพิ่มผู้ทวนสอบแล้ว กรุณารอการติดต่อกลับจากผู้ทวนสอบอีกครั้ง
 
 
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อผู้ทวนสอบตอบรับคำเชิญแล้ว ชื่อและข้อมูลผู้ทวนสอบจะแสดงในหน้าเพิ่มผู้ทวนสอบ
+✅ เมื่อผู้ทวนสอบตอบรับคำเชิญแล้ว ชื่อและข้อมูลผู้ทวนสอบจะแสดงในหน้าเพิ่มผู้ทวนสอบ

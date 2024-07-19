@@ -25,7 +25,7 @@
   * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
     * [การตั้งค่าบทบาทอย่างละเอียด](platformguides/setup/undefined-3/undefined.md)
     * [การมอบหมายงาน](platformguides/setup/undefined-3/undefined-1.md)
-    * [ขั้นตอนการเชิญผู้ทวนสอบเข้าบริษัท](platformguides/setup/undefined-3/undefined-2.md)
+    * [เพิ่มผู้ทวนสอบ](platformguides/setup/undefined-3/undefined-2.md)
 * [📝 การกรอกข้อมูล](platformguides/data-input/README.md)
   * [ข้อมูลฉบับร่าง](platformguides/data-input/undefined.md)
   * [ส่งคำขออนุมัติ](platformguides/data-input/undefined-1.md)
