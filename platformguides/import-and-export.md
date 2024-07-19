@@ -10,6 +10,8 @@
 2. ค้นหารายการที่ต้องการ Import data
 3. กดปุ่ม Export data หรือ ส่งออก
 
+
+
 <figure><img src="../.gitbook/assets/Screenshot 2567-02-22 at 15.03.09.png" alt=""><figcaption></figcaption></figure>
 
 #### หลังจาก Export รายการออกมาแล้ว ให้ใส่ข้อมูลให้ครบถ้วนตาม Format ในไฟล์ที่ได้ทำการ Export ออกมา
@@ -31,29 +33,41 @@
 9. คอลัมน์ **ผู้บันทึกข้อมูล** ให้ใส่ชื่อผู้บันทึกข้อมูล โดยต้องมีชื่อในระบบเท่านั้น
 10. คอลัมน์ **วันที่อัปเดตล่าสุด** ให้ใส่วันที่ที่อัปเดตข้อมูล
 
+
+
 ### ขั้นตอนการ Import data
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. เข้าหน้า กรอกข้อมูลรายการตรวจวัด
-2. กดปุ่ม Import data หรือ นำเข้าข้อมูล
+1. เข้าหน้ากรอกข้อมูลรายการตรวจวัด
+2. กดปุ่ม Import  หรือ นำเข้า
 3. เลือก Import data หรือ นำเข้าข้อมูล
+
+
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ถัดไป
 
+
+
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. คลิ๊กเพื่อเลือกไฟล์ที่เตรียมไว้สำหรับ Import
+
+
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกไฟล์สำหรับ Import
 
+
+
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ถัดไป
+
+
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,17 +75,23 @@
 
 1. กดปุ่ม ไปยังหน้ารายการตรวจวัด เพื่อตรวจสอบข้อมูลที่ Import data
 
+
+
 ### ขั้นตอนการตรวจเช็คข้อมูลหลังจาก Import data
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Import data สำเร็จ
 
+
+
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 1. แสดงชื่อรายการถูกต้อง
 2. แสดงข้อมูล เดือน, จำนวน ถูกต้อง
 3. สถานะจะแสดงเป็นร่างเท่านั้น สามารถแก้ไข หรือ ส่งคำขออนุมัติ
+
+
 
 ## Import file
 
@@ -91,6 +111,8 @@
 2. ชื่อ Folder ต่อจาก ID สามารถใส่ชื่อรายการกิจกรรมเพื่อให้ง่ายกับการเตรียมเอกสารหรือไม่ใส่ก็ได้
 3. Folder สำหรับใส่เอกสารต้องเป็น Folder สำหรับใส่เอกสารของรายการนั้นโดยเฉพาะ
 
+
+
 <figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 2 การเตรียม Folder สำหรับใส่เอกสารของรายการนั้น
@@ -99,6 +121,8 @@
 2. สร้าง Folder สำหรับใส่เอกสารโดยเรียงตามเดือนที่ต้องการอัปโหลดเอกสารแนบ เช่น 01-01-2022
 3. เดือนไหนที่ไม่มีเอกสารแนบไม่จำเป็นต้องสร้าง Folder สำหรับใส่เอกสาร
 
+
+
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 3 นำไฟล์เอกสารแนบใส่ใน Folder ตามเดือนที่ต้องการอัปโหลดเอกสาร
@@ -106,11 +130,15 @@
 1. เข้าไปใน Folder ของเดือนที่ต้องการอัปโหลดเอกสารแนบ ในขั้นตอนที่ 2
 2. นำเอกสารแนบมาใส่ใน Folder ตามเดือนที่ต้องการอัปโหลดเอกสาร
 
+
+
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 #### ขั้นตอนที่ 4 เมื่อเตรียม Folder เอกสารแนบเสร็จแล้วให้ทำ Folder เป็นไฟล์ .zip
 
 #### <mark style="background-color:purple;">ในการ Bulk import ต้องเป็นไฟล์ .zip เท่านั้น</mark>
+
+
 
 ### ขั้นตอนการ Import file
 
@@ -120,21 +148,31 @@
 2. กดปุ่ม Import หรือ นำเข้า
 3. เลือก Import file หรือ นำเข้าไฟล์
 
+
+
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 1. คลิ๊กเพื่อเลือกไฟล์
+
+
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกไฟล์ .zip ที่ได้เตรียมไว้
 
+
+
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ถัดไป
 
+
+
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 1. Import file สำเร็จ
+
+
 
 ### ขั้นตอนการตรวจเช็คข้อมูลหลังจาก Import file
 
@@ -142,11 +180,12 @@
 
 1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Import file สำเร็จ
 
+
+
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2567-02-27 at 14.15.00.png" alt=""><figcaption></figcaption></figure>
 
-แสดงชื่อรายการถูกต้อง
+✅ กดเข้าที่ ลิงก์เอกสารประกอบข้อมูล
 
-1. กดเข้าที่ ลิงก์เอกสารประกอบข้อมูล
-2. แสดงไฟล์ที่ได้อัปโหลดเข้าระบบถูกต้อง
+✅ แสดงไฟล์ที่ได้อัปโหลดเข้าระบบถูกต้อง
