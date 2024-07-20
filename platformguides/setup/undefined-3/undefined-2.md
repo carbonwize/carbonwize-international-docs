@@ -9,7 +9,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกอีเมลของผู้ทวนสอบ
 2. เลือกประเภทผู้ทวนสอบ
@@ -18,6 +18,6 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ✅ เมื่อผู้ทวนสอบตอบรับคำเชิญแล้ว ชื่อและข้อมูลผู้ทวนสอบจะแสดงในหน้าเพิ่มผู้ทวนสอบ
