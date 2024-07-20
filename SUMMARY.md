@@ -49,7 +49,7 @@
 * [📋 ขั้นตอนการแก้ไขข้อมูล](platformguides-1/undefined-4.md)
 * [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
 
-## 📚 คู่มือการใช้งานแพลทฟอร์ม ผู้ทวนสอบ <a href="#platformguides" id="platformguides"></a>
+## คู่มือการใช้งานแพลทฟอร์ม ผู้ทวนสอบ <a href="#platformguides" id="platformguides"></a>
 
 * [📬 ขั้นตอนการลงทะเบียนเป็น ผู้ทวนสอบ](platformguides-2/auditor-at-cwallet.md)
 * [📬 ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าองค์กรในระบบ](platformguides-2/undefined-1.md)

@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนูโปรไฟล์ส่วนตัว
+1. กดเมนูโปรไฟล์
 2. กดเมนูออกจากระบบ
 
 
