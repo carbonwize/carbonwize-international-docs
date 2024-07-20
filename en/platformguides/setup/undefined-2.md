@@ -2,49 +2,47 @@
 
 ## **ขั้นตอนการสร้างรายการกิจกรรม**
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนู ตั้งค่าการใช้งาน
-2. กดเมนู รายการกิจกรรม
-3. กดปุ่ม รายการกิจกรรมใหม่
+1. กดเมนูตั้งค่าการใช้งาน
+2. กดเมนูรายการกิจกรรม
+3. กดปุ่มรายการกิจกรรมใหม่
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### ใส่รายละเอียดของบริษัท
+#### เลือกรายละเอียดของบริษัทที่ต้องการสร้างรายการกิจกรรม
 
 1. เลือกองค์กร
 2. เลือกสาขา
 3. เลือกอาคาร
 4. เลือกแผนก (ไม่บังคับ)
-5. กดปุ่ม ถัดไป
+5. กดปุ่มถัดไป
 
 
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกประเภทอุตสาหกรรม
 2. เลือกกิจกรรม
 3. กดปุ่ม ถัดไป
 
 {% hint style="success" %}
-รายการกิจกรรมสามารถเลือกประเภทและรายการได้มากกว่า 1 รายการ
+การสร้างรายการกิจกรรม สามารถเลือกประเภทอุตสาหกรรม และ กิจกรรมได้มากกว่า 1 รายการ
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. สร้างรายการกิจกรรมสำเร็จ
+* [x] สร้างรายการกิจกรรมสำเร็จ
 
 
 
 ## ขั้นตอนการแก้ไขรายการกิจกรรม
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-app-carbonwize-io-activity-list-2024-07-19-13_10_03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. สามารถกดสัญลักษณ์ตามลูกศรและแก้ไขรายการกิจกรรมได้ทันที
+1. สามารถกดที่ icon หรือ ตามสัญลักษณ์ และแก้ไขรายการกิจกรรมได้ทันที
 
 
 
@@ -54,7 +52,7 @@
 
 1. ตรวจเช็คชื่อรายการกิจกรรม
 2. กด icon ด้านหลังรายการ
-3. กดปุ่ม Delete
+3. กดปุ่ม ลบ
 
 
 
@@ -72,4 +70,4 @@
 <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกรายการ
-2. กดปุ่ม สำเนา
+2. กดปุ่มสำเนา

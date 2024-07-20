@@ -2,37 +2,37 @@
 
 ## **ขั้นตอนการดูงานที่ได้รับมอบหมาย**
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนู ตั้งค่าการใช้งาน
-2. กดเมนู จัดการบัญชีผู้ใช้
+1. กดเมนูตั้งค่าการใช้งาน
+2. กดเมนูจัดการบัญชีผู้ใช้
 3. กดแท็บมอบหมายงาน
-4. กดปุ่มเครื่องหมายบวก (+)
+4. กดที่ icon ของสมาชิก
 
 
 
-<figure><img src="../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-1. แสดงรายการที่ได้รับมอบหมายทั้งหมด
+* [x] แสดงรายการที่ได้รับมอบหมายทั้งหมด
 
 
 
 ## **ขั้นตอนการมอบหมายงาน**
 
-<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บ มอบหมายงาน
-2. กด icon (icon edit)
+2. กด icon&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกรายการกิจกรรม
-2. กดปุ่ม บันทึก
+2. กดปุ่มบันทึก
 
 
 
-<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-1. แสดงงานที่ได้รับมอบหมายถูกต้อง
+* [x] แสดงงานที่ได้รับมอบหมายถูกต้อง

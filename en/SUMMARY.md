@@ -1,69 +1,66 @@
 # Table of contents
 
-* [👋 Welcome to Carbonwize](README.md)
+* [👋 ยินดีต้อนรับสู่ Carbonwize](README.md)
 
-## Basic Information <a href="#getting-started" id="getting-started"></a>
+## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
 
-* [✍️ Book demo](getting-started/book-demo.md)
-* [✍️ Register (Beta)](getting-started/registration.md)
-* [✍️ Change Password](getting-started/reset-password.md)
-* [👩‍🔧 Roles and Responsibilities](getting-started/roles-and-responsibilities.md)
+* [✍️ Become a partner](getting-started/book-demo.md)
+* [✍️ Contact us](getting-started/registration.md)
+* [💻 เข้าสู่ระบบ](getting-started/undefined.md)
+* [🔐 เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
+* [🔐 ลืมรหัสผ่าน](getting-started/undefined-1.md)
+* [💻 ออกจากระบบ](getting-started/undefined-2.md)
 
-## User Manual for the Platform <a href="#platformguides" id="platformguides"></a>
+## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
-* [💡 Get started](platformguides/undefined/README.md)
-  * [🔸 Simple setup](platformguides/undefined/easy.md)
-  * [🔹 Detailed setup](platformguides/undefined/detailed.md)
-* [📈 Overview of the organization](platformguides/undefined-1.md)
-* [⚙️ Usage settings](platformguides/setup/README.md)
-  * [Company structure setup](platformguides/setup/undefined.md)
-  * [Setting up organizational structure](platformguides/setup/undefined-1/README.md)
-    * [Branch structure setup](platformguides/setup/undefined-1/undefined.md)
-    * [Building structure setup](platformguides/setup/undefined-1/undefined-1.md)
-    * [Department structure setup](platformguides/setup/undefined-1/undefined-1-1.md)
-  * [List of activities](platformguides/setup/undefined-2.md)
-  * [User account management](platformguides/setup/undefined-3/README.md)
-    * [Detailed role configuration](platformguides/setup/undefined-3/undefined.md)
-    * [Task assignment](platformguides/setup/undefined-3/undefined-1.md)
-    * [Steps to invite reviewers to the company](platformguides/setup/undefined-3/undefined-2.md)
-* [📝 Data entry](platformguides/data-input/README.md)
-  * [Draft data](platformguides/data-input/undefined.md)
-  * [Submit a request for approval](platformguides/data-input/undefined-1.md)
+* [💡 เริ่มต้นการใช้งาน](platformguides/undefined.md)
+* [📈 ภาพรวมขององค์กร](platformguides/undefined-1.md)
+* [⚙️ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
+  * [การตั้งค่าการเก็บข้อมูลองค์กร](platformguides/setup/undefined.md)
+  * [การตั้งค่าองค์กร](platformguides/setup/undefined-1/README.md)
+    * [การตั้งค่าสาขา](platformguides/setup/undefined-1/undefined.md)
+    * [การตั้งค่าอาคาร](platformguides/setup/undefined-1/undefined-1.md)
+    * [การตั้งค่าแผนก](platformguides/setup/undefined-1/undefined-1-1.md)
+  * [รายการกิจกรรม](platformguides/setup/undefined-2.md)
+  * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
+    * [การตั้งค่าบทบาทอย่างละเอียด](platformguides/setup/undefined-3/undefined.md)
+    * [การมอบหมายงาน](platformguides/setup/undefined-3/undefined-1.md)
+    * [เพิ่มผู้ทวนสอบ](platformguides/setup/undefined-3/undefined-2.md)
+* [📝 กรอกข้อมูลรายการตรวจวัด](platformguides/data-input.md)
 * [🔀 Import data & Import file](platformguides/import-and-export.md)
 * [🔀 Export data](platformguides/export-data.md)
-* [✅ Item approval](platformguides/approve-items/README.md)
-  * [Item approval process](platformguides/approve-items/undefined.md)
-  * [Item disapproval process](platformguides/approve-items/undefined-1.md)
-  * [Item modification request process](platformguides/approve-items/undefined-2.md)
-* [📋 Transaction record](platformguides/undefined-2.md)
+* [✅ การอนุมัติรายการ](platformguides/approve-items/README.md)
+  * [ขั้นตอนการอนุมัติรายการ](platformguides/approve-items/undefined.md)
+  * [ขั้นตอนการไม่อนุมัติรายการ](platformguides/approve-items/undefined-1.md)
+  * [ขั้นตอนการขอแก้ไขรายการ](platformguides/approve-items/undefined-2.md)
+* [📋 บันทึกการทำธุรกรรม](platformguides/undefined-2.md)
 * [📊 Emission Factor](platformguides/emission-factor/README.md)
-  * [Define your own emission factor](platformguides/emission-factor/emission-factor.md)
-  * [Identification of greenhouse gas emissions(EF)](platformguides/emission-factor/ef.md)
-* [🗂️ Data verification](platformguides/undefined-3.md)
-* [🗂️ Export verification report](platformguides/export.md)
+  * [กำหนด Emission Factor เอง](platformguides/emission-factor/emission-factor.md)
+  * [การระบุค่าการปล่อยก๊าซเรือนกระจก (EF)](platformguides/emission-factor/ef.md)
+* [🗂️ ทวนสอบข้อมูล](platformguides/undefined-3.md)
+* [🗂️ Export รายงานข้อมูลทวนสอบ](platformguides/export.md)
 
-## User Manual for the Mobile Platform <a href="#platformguides" id="platformguides"></a>
+## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
 
-* [✍️ Sign up for the platform via mobile](platformguides-1/undefined-1.md)
-* [📝 Android system installation process](platformguides-1/android.md)
-* [📝 iOS installation process](platformguides-1/data-input.md)
-* [💡 Login process](platformguides-1/undefined-2.md)
-* [📋 Data addition process](platformguides-1/undefined-3.md)
-* [📋 Data modification process](platformguides-1/undefined-4.md)
-* [📇 Profile page](platformguides-1/undefined-5.md)
+* [📝 ขั้นตอนการติดตั้งระบบ Android](platformguides-1/android.md)
+* [📝 ขั้นตอนการติดตั้งระบบ iOS](platformguides-1/data-input.md)
+* [💡 ขั้นตอนการเข้าสู่ระบบ](platformguides-1/undefined-2.md)
+* [📋 ขั้นตอนการเพิ่มข้อมูล](platformguides-1/undefined-3.md)
+* [📋 ขั้นตอนการแก้ไขข้อมูล](platformguides-1/undefined-4.md)
+* [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
 
-## User Manual for the Auditor Platform <a href="#platformguides" id="platformguides"></a>
+## คู่มือการใช้งานแพลทฟอร์ม ผู้ทวนสอบ <a href="#platformguides" id="platformguides"></a>
 
-* [📬 Steps to register as an Auditor at Carbonwize](platformguides-2/auditor-at-cwallet.md)
-* [Steps to accept the invitation to be an auditor for the company](platformguides-2/undefined-1.md)
-* [Steps to Log In](platformguides-2/undefined.md)
-* [🗂️ Verify Data](platformguides-2/undefined-2/README.md)
-  * [📈 Overview of the Organization](platformguides-2/undefined-2/undefined-1.md)
-* [Profile Page](platformguides-2/undefined-3.md)
+* [📬 ขั้นตอนการลงทะเบียนเป็น ผู้ทวนสอบ](platformguides-2/auditor-at-cwallet.md)
+* [📬 ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าองค์กรในระบบ](platformguides-2/undefined-1.md)
+* [💻 เข้าสู่ระบบ ผู้ทวนสอบ](platformguides-2/undefined.md)
+* [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
+  * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
+* [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
 
-## &#x20;Trivia <a href="#tips" id="tips"></a>
+## เกร็ดความรู้ <a href="#tips" id="tips"></a>
 
-* [📙 Essential Vocabulary](tips/vocabulary.md)
+* [📙 คำศัพท์ที่ควรรู้](tips/vocabulary.md)
 
 ***
 
