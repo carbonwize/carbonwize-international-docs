@@ -1,14 +1,14 @@
-# 💻 เข้าสู่ระบบ
+# 💻 Login
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. เข้าหน้าเว็บ [https://www.carbonwize.io/](https://www.carbonwize.io/)&#x20;
-2. กดปุ่ม [Login](https://app.carbonwize.io/)
+1. Go to the website [https://www.carbonwize.io/](https://www.carbonwize.io/)
+2. Press the button [Login](https://app.carbonwize.io/)
 
 
 
-<figure><img src="../.gitbook/assets/screencapture-app-carbonwize-io-2024-07-17-17_19_39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-1. กรอกอีเมล
-2. กรอกรหัสผ่าน
-3. กดปุ่มเข้าสู่ระบบ
+1. Enter email
+2. ﻿﻿﻿Enter password
+3. ﻿﻿﻿Press the login button
