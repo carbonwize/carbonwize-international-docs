@@ -1,6 +1,6 @@
 # 📋 ขั้นตอนการเพิ่มข้อมูล
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มกรอกข้อมูล
 2. เลือกอาคาร
