@@ -9,4 +9,4 @@
 
 1. Fill in the information completely.
 2. ﻿﻿﻿Press the Book demo button
-3. ﻿﻿﻿Wait for CarbonWize to contact you back.
+3. ﻿﻿﻿Wait for Carbonwize to contact you back.
