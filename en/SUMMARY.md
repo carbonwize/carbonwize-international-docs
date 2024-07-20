@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 ยินดีต้อนรับสู่ Carbonwize](README.md)
+* [👋 Welcome to Carbonwize](README.md)
 
 ## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
 
