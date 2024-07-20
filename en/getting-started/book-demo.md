@@ -1,14 +1,12 @@
 # ✍️ Become a partner
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. เข้าหน้าเว็บ [https://www.carbonwize.io/](https://www.carbonwize.io/)&#x20;
-2. กด [Become a partner](https://www.carbonwize.io/become-partner)
-
-
+1. Go to the website [https://www.carbonwize.io/](https://www.carbonwize.io/)
+2. Press the button [Become a partner](https://www.carbonwize.io/become-partner)
 
 <figure><img src="../.gitbook/assets/screencapture-carbonwize-io-become-partner-2024-07-17-17_00_57.png" alt=""><figcaption></figcaption></figure>
 
-1. กรอกข้อมูลให้ครบถ้วน
-2. กดปุ่ม Submit
-3. รอทาง CarbonWize ติดต่อกลับ
+1. Fill in the information completely.
+2. ﻿﻿﻿Press the Book demo button
+3. ﻿﻿﻿Wait for CarbonWize to contact you back.
