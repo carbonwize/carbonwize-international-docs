@@ -9,7 +9,7 @@
 * [💻 Login](getting-started/undefined.md)
 * [🔐 Change password](getting-started/reset-password.md)
 * [🔐 Forgot password](getting-started/undefined-1.md)
-* [💻 ออกจากระบบ](getting-started/undefined-2.md)
+* [💻 Log out](getting-started/undefined-2.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
 
