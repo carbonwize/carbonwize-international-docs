@@ -56,7 +56,7 @@
 
 ## **ขั้นตอนการส่งคำขออนุมัติจาก บันทึกร่าง**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจสอบชื่อรายการตรวจวัด
 2. ตรวจสอบวันที่ เดือน/ปี
@@ -65,7 +65,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจเช็คปริมาณ
 2. ตรวจเช็ควันที่ เดือน/ปี
@@ -75,7 +75,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ✅ เมื่อส่งคำขออนุมัติแล้วจะแสดงข้อมูลในหน้าประวัติ แล้วจะแสดงสถานะเป็น รออนุมัติ
 
