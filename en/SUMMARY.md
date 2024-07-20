@@ -2,7 +2,7 @@
 
 * [👋 Welcome to Carbonwize](README.md)
 
-## ข้อมูลเบื้องต้น <a href="#getting-started" id="getting-started"></a>
+## Basic information <a href="#getting-started" id="getting-started"></a>
 
 * [✍️ Become a partner](getting-started/book-demo.md)
 * [✍️ Contact us](getting-started/registration.md)
