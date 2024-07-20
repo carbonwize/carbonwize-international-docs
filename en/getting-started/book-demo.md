@@ -8,5 +8,5 @@
 <figure><img src="../.gitbook/assets/screencapture-carbonwize-io-become-partner-2024-07-17-17_00_57.png" alt=""><figcaption></figcaption></figure>
 
 1. Fill in the information completely.
-2. ﻿﻿﻿Press the Book demo button
+2. ﻿﻿﻿Press the button submit
 3. ﻿﻿﻿Wait for Carbonwize to contact you back.
