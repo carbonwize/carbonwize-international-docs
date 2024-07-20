@@ -13,7 +13,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-✅ แสดงรายการที่ได้รับมอบหมายทั้งหมด
+* [x] แสดงรายการที่ได้รับมอบหมายทั้งหมด
 
 
 
@@ -22,7 +22,7 @@
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บ มอบหมายงาน
-2. กด icon (icon edit)
+2. กด icon&#x20;
 
 
 
@@ -35,4 +35,4 @@
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-✅ แสดงงานที่ได้รับมอบหมายถูกต้อง
+* [x] แสดงงานที่ได้รับมอบหมายถูกต้อง

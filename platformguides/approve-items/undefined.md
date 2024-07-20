@@ -23,4 +23,4 @@
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-✅ เมื่ออนุมัติรายการเรียบร้อยรายการจะเข้าไปอยู่ในแท็บ <mark style="background-color:green;">อนุมัติแล้ว</mark>
+* [x] เมื่ออนุมัติรายการเรียบร้อยรายการจะเข้าไปอยู่ในแท็บ <mark style="background-color:green;">อนุมัติแล้ว</mark>

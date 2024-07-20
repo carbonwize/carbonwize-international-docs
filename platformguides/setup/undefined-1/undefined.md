@@ -23,7 +23,7 @@
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บสาขา
-2. กด icon (icon edit)
+2. กด icon
 
 
 

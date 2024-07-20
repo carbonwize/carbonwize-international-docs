@@ -20,4 +20,4 @@
 
 <figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 19.14.26.png" alt=""><figcaption></figcaption></figure>
 
-✅ เมื่อ Mapping Emission Factor เสร็จเรียบร้อยแล้ว ตัว Factor จะถูกนำไปคำนวณการปล่อยก๊าซเรือนกระจกของรายการนั้นๆ
+* [x] เมื่อ Mapping Emission Factor เสร็จเรียบร้อยแล้ว ตัว Factor จะถูกนำไปคำนวณการปล่อยก๊าซเรือนกระจกของรายการนั้นๆ

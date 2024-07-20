@@ -23,7 +23,7 @@
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บโครงสร้างองค์กร
-2. กด icon (icon edit)
+2. กด icon
 
 
 

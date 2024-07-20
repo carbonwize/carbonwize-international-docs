@@ -23,7 +23,7 @@
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บโครงสร้างอาคาร
-2. กด icon (icon edit)
+2. กด icon
 
 
 

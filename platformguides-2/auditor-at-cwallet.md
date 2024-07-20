@@ -16,4 +16,4 @@
 
 <figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
-✅ เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบโดยใช้ password ที่แสดงในเมลได้ทันที
+* [x] เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบโดยใช้ password ที่แสดงในเมลได้ทันที
