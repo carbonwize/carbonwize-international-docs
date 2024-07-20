@@ -1,34 +1,26 @@
-# 🔐 ลืมรหัสผ่าน
+# 🔐 Forgot password
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(42).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่มลืมรหัสผ่าน
+1. Press the Forgot Password button
 
+<figure><img src="../.gitbook/assets/image%20(43).png" alt=""><figcaption></figcaption></figure>
 
+1. Enter your email to reset your password&#x20;
+2. Press the reset password button
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(44).png" alt=""><figcaption></figcaption></figure>
 
-1. กรอกอีเมล เพื่อรีเซ็ตรหัสผ่าน
-2. กดปุ่มรีเซ็ตรหัสผ่าน
+* [x] Check your email to reset your password.
 
+<figure><img src="../.gitbook/assets/image%20(46).png" alt=""><figcaption></figcaption></figure>
 
+1. Press the Reset password button.
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(47).png" alt=""><figcaption></figcaption></figure>
 
-* [x] ตรวจสอบอีเมล เพื่อรีเซ็ตรหัสผ่าน
+1. Enter a new password (as required below)
+2. Enter to confirm your password
+3. Press the reset password button
 
-
-
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
-
-1. กดปุ่ม Reset password
-
-
-
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกรหัสผ่านใหม่ (ตามข้อกำหนดด้านล่าง)
-2. กรอกยืนยันรหัสผ่าน
-3. กดปุ่มรีเซ็ตรหัสผ่าน
-
-* [x] เข้าสู่ระบบโดยใช้ระรหัสใหม่เท่านั้น
+* [x] Log in using new password only.
