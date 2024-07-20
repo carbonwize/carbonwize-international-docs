@@ -7,7 +7,7 @@
 * [✍️ Become a partner](getting-started/book-demo.md)
 * [✍️ Contact us](getting-started/registration.md)
 * [💻 เข้าสู่ระบบ](getting-started/undefined.md)
-* [🔐 เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
+* [✍️ เปลี่ยนรหัสผ่าน](getting-started/reset-password.md)
 * [🔐 ลืมรหัสผ่าน](getting-started/undefined-1.md)
 * [💻 ออกจากระบบ](getting-started/undefined-2.md)
 
