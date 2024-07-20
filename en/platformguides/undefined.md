@@ -1,39 +1,37 @@
-# 💡 เริ่มต้นการใช้งาน
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 15.27.29.png" alt=""><figcaption></figcaption></figure>
-
-1. กดปุ่มเริ่มต้นใช้งาน
-
-*   #### ในกรณีที่ยังไม่เคยตั้งค่าการใช้งานเมื่อเข้าสู่ระบบมาทุกครั้งระบบจะขึ้นให้ตั้งค่าอการใช้งานจนสำเร็จ
-
-
-* #### ในกรณีที่เคยตั้งค่าแบบง่ายแล้วระบบจะเข้าหน้ากรอกข้อมูลรายการตรวจวัดทันที
+# 💡 Get started
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 15.29.39.png" alt=""><figcaption></figcaption></figure>
+1. Press the Get started button
 
-1. เลือกประเภทอุตสาหกรรม
-2. กดปุ่มเลือก
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 15.30.20.png" alt=""><figcaption></figcaption></figure>
-
-#### <mark style="color:blue;">หน้ารายการตรวจวัดเบื้องต้นจะเเสดงรายการตรวจวัดเบื้องต้นเท่านั้น สามารถลบ,เพิ่มรายการได้ภายหลัง (อ่านคู่มือการใช้งานฟังก์ชันเพิ่มเติม)</mark>
-
-1. กดเลือกวันที่เริ่มต้นเก็บข้อมูล
-2. กดปุ่มบันทึก
+* [x] In case you have never set up the usage, every time you log in, the system will prompt you to set up the usage until it is successful.
+* [x] In case you have previously set up the usage setting, the system will immediately take you to the Emission Log page.
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 15.31.04.png" alt=""><figcaption></figcaption></figure>
-
-* [x] รอระบบตั้งค่าการใช้งานตามขั้นตอน
 
 
+1. Select industry type
+2. Press the select button
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 15.31.40.png" alt=""><figcaption></figcaption></figure>
 
-* [x] **เมื่อระบบสร้างฐานข้อมูลเสร็จแล้วจะขึ้นหน้ากรอกข้อมูลรายการตรวจวัดทันที**
-* #### สามารถอ่านการใช้งานฟังก์ชันการทำงานของระบบได้ในคู่มือการใช้งาน
+
+<mark style="color:blue;">The basic measurement list page only displays basic measurement items. You can delete or add items later (please read the additional function user manual).</mark>
+
+
+
+
+
+1. select to the start date for data collection.
+2. Press the save button
+
+
+
+* [x] Please wait for the system to set up the usage.
+
+
+
+
+
+* [x] When the system has created the database, the data Emission Log page will appear immediately.
+* [x] You can read about the operation of the system functions in the user manual.
