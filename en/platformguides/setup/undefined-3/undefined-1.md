@@ -1,38 +1,38 @@
-# การมอบหมายงาน
+# Assignment of work
 
-## **ขั้นตอนการดูงานที่ได้รับมอบหมาย**
-
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูตั้งค่าการใช้งาน
-2. กดเมนูจัดการบัญชีผู้ใช้
-3. กดแท็บมอบหมายงาน
-4. กดที่ icon ของสมาชิก
+### Procedure for reviewing assigned work
 
 
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
-* [x] แสดงรายการที่ได้รับมอบหมายทั้งหมด
 
 
-
-## **ขั้นตอนการมอบหมายงาน**
-
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-
-1. กดแท็บ มอบหมายงาน
-2. กด icon&#x20;
+1. ﻿﻿﻿Press the settings menu
+2. ﻿﻿﻿Press the Manage User Account menu.
+3. ﻿﻿﻿Press the Assign Task tab
+4. ﻿﻿﻿Press on the member icon
 
 
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกรายการกิจกรรม
-2. กดปุ่มบันทึก
 
 
+* [x] Show all assigned items
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+### Steps Work assignment
 
-* [x] แสดงงานที่ได้รับมอบหมายถูกต้อง
+
+
+
+
+1. Press the Assign Task tab
+2. ﻿﻿﻿Press the icon
+
+
+
+
+
+1. Select activity items
+2. ﻿﻿﻿Press the save button
+
+
+
+* [x] Show the assigned tasks correctly

@@ -24,7 +24,7 @@
   * [Activity Inventory](platformguides/setup/undefined-2.md)
   * [User account management](platformguides/setup/undefined-3/README.md)
     * [Detailed role settings](platformguides/setup/undefined-3/undefined.md)
-    * [การมอบหมายงาน](platformguides/setup/undefined-3/undefined-1.md)
+    * [Assignment of work](platformguides/setup/undefined-3/undefined-1.md)
     * [เพิ่มผู้ทวนสอบ](platformguides/setup/undefined-3/undefined-2.md)
 * [📝 กรอกข้อมูลรายการตรวจวัด](platformguides/data-input.md)
 * [🔀 Import data & Import file](platformguides/import-and-export.md)
