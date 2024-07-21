@@ -15,8 +15,8 @@
 
 * [💡 Get started](platformguides/undefined.md)
 * [📈 Organization Overview](platformguides/undefined-1.md)
-* [⚙️ ตั้งค่าการใช้งาน](platformguides/setup/README.md)
-  * [การตั้งค่าการเก็บข้อมูลองค์กร](platformguides/setup/undefined.md)
+* [⚙️ Setting](platformguides/setup/README.md)
+  * [Organization storage settings](platformguides/setup/undefined.md)
   * [การตั้งค่าองค์กร](platformguides/setup/undefined-1/README.md)
     * [การตั้งค่าสาขา](platformguides/setup/undefined-1/undefined.md)
     * [การตั้งค่าอาคาร](platformguides/setup/undefined-1/undefined-1.md)
