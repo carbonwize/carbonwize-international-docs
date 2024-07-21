@@ -1,82 +1,77 @@
-# 📝 กรอกข้อมูลรายการตรวจวัด
+# 📝 Emission Log
 
-## **ขั้นตอนการ**กรอกข้อมูลรายการตรวจวัด <mark style="background-color:green;">**บันทึกร่าง**</mark>
+### Steps for Emission Log, drafts
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูกรอกข้อมูลรายการตรวจวัด
-2. ตรวจเช็คชื่อรายการก่อนกรอกข้อมูล
-3. กด icon เพื่อเข้าสู่หน้าเพิ่มข้อมูล
+<figure><img src="../.gitbook/assets/image%20(34).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+1. Press the menu to the Emission Log.
+2. ﻿﻿﻿Check the item name before filling in the information.
+3. Press the icon to enter the add data page.
 
-1. ตรวจเช็คข้อมูลรายการตรวจวัด
-2. กดปุ่มเพิ่มข้อมูลใหม่
+<figure><img src="../.gitbook/assets/image%20(36).png" alt=""><figcaption></figcaption></figure>
 
+1. Check the item name before filling in the information.
+2. Press the add new information button.
 
-
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกจำนวนปริมาณ
-2. ตรวจเช็ควันที่ เดือน/ปี
-3. แนบไฟล์ (ถ้ามี)
-4. คำอธิบาย (ถ้ามี)
-5. กดปุ่มบันทึกร่าง
+<figure><img src="../.gitbook/assets/image%20(38).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+1. Enter quantity
+2. ﻿﻿﻿Check date month/year
+3. ﻿﻿﻿Attach files (if any)
+4. ﻿﻿﻿Description (if any)
+5. ﻿﻿﻿Press the Save Draft button
 
-* [x] เมื่อบันทึกร่างสำเร็จ ข้อมูลจะแสดงในหน้าประวัติ สถานะเป็นร่าง
+<figure><img src="../.gitbook/assets/image%20(40).png" alt=""><figcaption></figcaption></figure>
+
+* [x] When the draft is successfully saved, the information will be displayed on the history page, with the status as draft.
 
 \
-**ขั้นตอนการแก้ไขข้อมูลบันทึกร่าง**
+Steps for editing draft record data
 -----------------------------------
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(41).png" alt=""><figcaption></figcaption></figure>
 
-1. ตรวจสอบชื่อรายการตรวจวัด
-2. ตรวจสอบวันที่ เดือน/ปี
-3. ตรวจสอบสถานะต้องเป็น ร่าง เท่านั้น
-4. กด icon ในช่องจัดการ (เพื่อแก้ไขบันทึกร่าง,ส่งคำขออนุมัติ)
+1. Check the name of the Emission Log item
+2. Check date month/year&#x20;
+3. Check status be Draft only.&#x20;
+4. Click the icon in the manage box
 
-
-
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
-
-1. แก้ไขข้อมูล
-2. แนบไฟล์ (ถ้ามี)
-3. กดปุ่มบันทึกร่าง
-
-* #### เมื่อบันทึกร่างสำเร็จจะแสดงข้อมูลที่ถูกแก้ไขในหน้าประวัติ โดยสถานะเป็น ร่าง
+<figure><img src="../.gitbook/assets/image%20(196).png" alt=""><figcaption></figcaption></figure>
 
 
 
-## **ขั้นตอนการส่งคำขออนุมัติจาก บันทึกร่าง**
+1. Edit information
+2. ﻿﻿﻿Attach files (if any)
+3. ﻿﻿﻿Press the Save Draft button
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+* When the draft is successfully saved, the edited information will be displayed in the history page, with the status as Draft.
 
-1. ตรวจสอบชื่อรายการตรวจวัด
-2. ตรวจสอบวันที่ เดือน/ปี
-3. ตรวจสอบสถานะต้องเป็น ร่าง เท่านั้น
-4. กด icon ในช่องจัดการ เพื่อแก้ไขบันทึกร่าง, ส่งคำขออนุมัติ
+### Steps Procedure for approval request from the draft record
 
-
-
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. ตรวจเช็คปริมาณ
-2. ตรวจเช็ควันที่ เดือน/ปี
-3. ตรวจเช็คแนบไฟล์หลักฐาน (ถ้ามี)
-4. ตรวจเช็คคำอธิบาย (ถ้ามี)
-5. กดปุ่มส่งคำขออนุมัติ
+<figure><img src="../.gitbook/assets/image%20(3)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+1. Check the name of the Emission Log item
+2. ﻿﻿﻿Check date month/year
+3. ﻿﻿﻿Check status must be Draft only.
+4. ﻿﻿﻿Click the icon
 
-* [x] เมื่อส่งคำขออนุมัติแล้วจะแสดงข้อมูลในหน้าประวัติ แล้วจะแสดงสถานะเป็น รออนุมัติ
-* [x] เมื่อสถานะเป็น <mark style="background-color:orange;">รออนุมัติ</mark> จะไม่สามารถแก้ไขข้อมูลได้เนื่องจากข้อมูลถูกส่งคำขออนุมัติไปแล้ว
+<figure><img src="../.gitbook/assets/image%20(3)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
+
+
+1. Check quantity
+2. ﻿﻿﻿Check date month/year
+3. ﻿﻿﻿Check the attached evidence files (if any)
+4. ﻿﻿﻿Check the description (if any)
+5. ﻿﻿﻿Press the Send Approval Request button.
+
+<figure><img src="../.gitbook/assets/image%20(4)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+* [x] When the approval request is submitted, the information will be displayed on the history page and the status will be displayed as Pending.
+* [x] When the status isWaiting for approvalThe information cannot be edited as it has already been submitted for approval.

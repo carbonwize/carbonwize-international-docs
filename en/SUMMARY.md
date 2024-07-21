@@ -26,7 +26,7 @@
     * [Detailed role settings](platformguides/setup/undefined-3/undefined.md)
     * [Assignment of work](platformguides/setup/undefined-3/undefined-1.md)
     * [Add a reviewer](platformguides/setup/undefined-3/undefined-2.md)
-* [📝 กรอกข้อมูลรายการตรวจวัด](platformguides/data-input.md)
+* [📝 Emission Log](platformguides/data-input.md)
 * [🔀 Import data & Import file](platformguides/import-and-export.md)
 * [🔀 Export data](platformguides/export-data.md)
 * [✅ การอนุมัติรายการ](platformguides/approve-items/README.md)
