@@ -1,6 +1,6 @@
-# Branch Settings
+# Branch settings
 
-### Steps to add branches
+### Steps add branches
 
 
 
@@ -16,7 +16,7 @@
 1. Fill in the branch details completely.
 2. Press the save button
 
-### Procedure Branch Editing
+### Steps Branch Editing
 
 
 

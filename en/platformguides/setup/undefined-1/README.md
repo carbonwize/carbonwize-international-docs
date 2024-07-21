@@ -1,6 +1,6 @@
 # Organization settings
 
-### Steps for adding a sub-organization
+### Steps adding a sub-organization
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-### Procedure Organizational Editing
+### Steps Organizational Editing
 
 
 
