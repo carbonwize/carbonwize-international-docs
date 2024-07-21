@@ -1,23 +1,27 @@
-# เพิ่มผู้ทวนสอบ
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูตั้งค่าการใช้งาน
-2. กดเมนูจัดการบัญชีผู้ใช้
-3. กดแท็บเพิ่มผู้ทวนสอบ
-4. กดปุ่มเพิ่มผู้ทวนสอบ
+# Add a reviewer
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกอีเมลของผู้ทวนสอบ
-2. เลือกประเภทผู้ทวนสอบ
-3. กดปุ่มเพิ่ม
-4. เมื่อเพิ่มผู้ทวนสอบแล้ว กรุณารอการตอบกลับจากผู้ทวนสอบอีกครั้ง
 
 
+1. ﻿﻿﻿Press the settings menu
+2. Press the Manage User Account menu.
+3. ﻿﻿﻿Click the Add Reviewer tab
+4. ﻿﻿﻿Press the Add Reviewer button
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* [x] เมื่อผู้ทวนสอบตอบรับคำเชิญแล้ว ชื่อและข้อมูลผู้ทวนสอบจะแสดงในหน้าเพิ่มผู้ทวนสอบ
+
+
+
+
+
+
+
+1. Enter the email address of the reviewer
+2. ﻿﻿﻿Select the type of reviewer
+3. ﻿﻿﻿Press the add button
+4. ﻿﻿﻿Once you have added a reviewer, please wait for a response from the reviewer again.
+
+<figure><img src="../../../.gitbook/assets/image%20(2)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+* [x] When a reviewer accepts the invitation, their name and reviewer information will be displayed on the Add Reviewer page.
