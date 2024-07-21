@@ -2,189 +2,181 @@
 
 ## Import data
 
-### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import data
+###
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
-
-1. สร้างรายการตรวจวัดเสร็จเรียบร้อย
-2. ค้นหารายการที่ต้องการ Import data
-3. กดปุ่ม Export data หรือ ส่งออก
+### steps Data preparation for data import
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2567-02-22 at 15.03.09.png" alt=""><figcaption></figcaption></figure>
-
-#### หลังจาก Export รายการออกมาแล้ว ให้ใส่ข้อมูลให้ครบถ้วนตาม Format ในไฟล์ที่ได้ทำการ Export ออกมา
-
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### **กรุณาอ่านรายละเอียดและกรอกข้อมูลให้ครบถ้วนก่อน Import data**
-
-1. คอลัมน์ **ลำดับ** ให้เรียงลำดับตามช่องบรรทัดไปจนถึงรายการสุดท้าย
-2. คอลัมน์ **ID** ให้นำ ID ของรายการตรวจวัดนั้นมาใส่ จะเห็นได้ว่าตอนที่ Export รายการออกมาจะมี ID ใส่มาให้แล้ว สามารถ Copy ID ใส่บรรทัดถัดไปได้เลย
-3. คอลัมน์ **บริษัท, สาขา, อาคาร, แผนก, ขอบเขต, หมวดหมู่, ชื่อรายการ, EF, หน่วย, วันที่เริ่มต้นกรอกข้อมูล, รูปแบบในการกรอก, ความถี่ในการกรอก** ให้นำข้อมูลของรายการนั้นมาใส่ จะเห็นได้ว่าตอนที่ Export รายการออกมาจะมี ข้อมูลใส่มาให้แล้ว สามารถ Copy ใส่บรรทัดถัดไปได้เลย
-4. คอลัมน์ **วันที่ของบันทึกข้อมูล** ให้ใส่วันที่บันทึกข้อมูล เช่น 01/01/2022 00:00:00 โดย Format ต้องตรงตามตัวอย่าง วันที่บันทึกข้อมูลจะต้องเรียงตามเดือนไม่ข้ามเดือนและไม่สามารถใส่ข้อมูลล่วงหน้าได้
-5. คอลัมน์ **ค่าที่ใช้จริง** ให้ใส่ปริมาณค่าที่ใช้จริง
-6. คอลัมน์ **ค่ารีเซทมิเตอร์** ใช้ในกรณีที่รูปแบบในการกรอกเป็นแบบสะสมเท่านั้น
-7. คอลัมน์ จำนวน (พนักงาน), จำนวน (วัน) ใช้กรอกข้อมูลในรายการของ Septic Tank เท่านั้น
-8. คอลัมน์ **kg CO2eq/unit** ไม่ต้องใส่ข้อมูล เนื่องจากเป็นช่องที่ระบบคำนวณ kg CO2eq/unit หากต้องการรู้ปริมาณให้ Import ข้อมูล 1 ครั้ง และ Export ข้อมูลออกมาอีกครั้งจะมีปริมาณ kg CO2eq/unit คำนวณออกมาให้
-9. คอลัมน์ **ผู้บันทึกข้อมูล** ให้ใส่ชื่อผู้บันทึกข้อมูล โดยต้องมีชื่อในระบบเท่านั้น
-10. คอลัมน์ **วันที่อัปเดตล่าสุด** ให้ใส่วันที่ที่อัปเดตข้อมูล
+1. Create Completed Emission Log&#x20;
+2. Find the desired item to import data.&#x20;
+3. Press the Export data button.
 
 
 
-### ขั้นตอนการ Import data
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. เข้าหน้ากรอกข้อมูลรายการตรวจวัด
-2. กดปุ่ม Import  หรือ นำเข้า
-3. เลือก Import data หรือ นำเข้าข้อมูล
+* After exporting the list, fill in the information completely according to the format in the exported file.
 
 
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดปุ่ม ถัดไป
 
 
+### Please read the details and fill in all information before importing data.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. คลิ๊กเพื่อเลือกไฟล์ที่เตรียมไว้สำหรับ Import
-
-
-
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกไฟล์สำหรับ Import
-
-
-
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-1. กดปุ่ม ถัดไป
+1. Column order Sort by row number to the last item
+2. In the ID column, enter the ID of the measurement item. You will see that when the item is exported, the ID is already entered. You can copy the ID and paste it into the next line.
+3. Column Company Branch Building Department Scope Category Item name EF Unit Start date Format Fill frequency Enter the data for that item. You will see that when the item is exported, the data is already entered. You can copy it to the next line.
+4. Column Recording date Enter the date of the data record, for example 01/01/2022 00:00:00. The format must be the same as the example. The record date must be sorted by month, not across months, and data cannot be entered in advance.
+5. Column Actual Value Enter the actual value used.
+6. The Reset Meter column is only used if the item format is cumulative.
+7. Column Number (Employees), Number (Days) are used to enter Septic Tank items only.
+8. Column kg CO2eq/unit does not need to be entered. Since this is the column that the system calculates kg CO2eq/unit
+9. Column: Recorder Name Enter the recorder name. The name must exist in the system.
+10. Column Last Updated Date: Enter the date the data was updated.
 
 
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-#### Import data สำเร็จ
-
-1. กดปุ่ม ไปยังหน้ารายการตรวจวัด เพื่อตรวจสอบข้อมูลที่ Import data
+### Steps data import
 
 
 
-### ขั้นตอนการตรวจเช็คข้อมูลหลังจาก Import data
-
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Import data สำเร็จ
 
 
-
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-1. แสดงชื่อรายการถูกต้อง
-2. แสดงข้อมูล เดือน, จำนวน ถูกต้อง
-3. สถานะจะแสดงเป็นร่างเท่านั้น สามารถแก้ไข หรือ ส่งคำขออนุมัติ
+1. Go to the measurement entry page.
+2. ﻿﻿﻿Press the Import button.
+3. ﻿﻿﻿Select Import data or Import data
 
 
+
+1. Press the Next button.
+
+
+
+1. Press to select the file prepared for import.
+
+
+
+1. Select file to import
+
+
+
+1. Press the Next button.
+
+
+
+Import data successful
+
+
+
+
+
+1. Go to the Emission Log page to check the imported data.
+
+
+
+### Data verification after importing data
+
+
+
+
+
+1. Go to the data Emission Log items that have successfully imported data.
+
+
+
+
+
+1. Show correct item name
+2. ﻿﻿﻿Show data month, amount correctly
+3. ﻿﻿﻿The status will be displayed as draft only. You can edit or submit for approval.
 
 ## Import file
 
-### Import file คือการอัปโหลดไฟล์เอกสารแนบเข้าในรายการกิจกรรม
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### ก่อน Import file ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Import file โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-and-export.md#import-data)
-
-#### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import file
-
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
-
-#### ขั้นตอนที่ 1 ข้อกำหนดการเตรียม Folder ของรายการกิจกรรม
-
-1. สร้าง Folder ใหม่ โดยชื่อ Folder ต้องมี ID ของรายการกิจกรรมด้านหน้า <mark style="background-color:purple;">สามารถดู ID ของรายการกิจกรรมได้ที่หน้าเว็บ=> เข้าหน้ารายการกิจกรรมนั้น จะมีเลข ID ของรายการกิจกรรมอยู่ที่บนลิงก์ หรือ Export data ของรายการนั้น ในไฟล์ Export จะมีเลข ID ของรายการแสดงอยู่</mark>
-2. ชื่อ Folder ต่อจาก ID สามารถใส่ชื่อรายการกิจกรรมเพื่อให้ง่ายกับการเตรียมเอกสารหรือไม่ใส่ก็ได้
-3. Folder สำหรับใส่เอกสารต้องเป็น Folder สำหรับใส่เอกสารของรายการนั้นโดยเฉพาะ
+### Import file is to upload attached document files into the activity list.
 
 
 
-<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
-#### ขั้นตอนที่ 2 การเตรียม Folder สำหรับใส่เอกสารของรายการนั้น
 
-1. เข้าไปใน Folder ของรายการกิจกรรมที่สร้างไว้ในขั้นตอนที่ 1
-2. สร้าง Folder สำหรับใส่เอกสารโดยเรียงตามเดือนที่ต้องการอัปโหลดเอกสารแนบ เช่น 01-01-2022
-3. เดือนไหนที่ไม่มีเอกสารแนบไม่จำเป็นต้องสร้าง Folder สำหรับใส่เอกสาร
+#### Before importing the file, data must be filled in according to the month for which data is to be imported. The data status must be only draft.
 
 
 
-<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
-
-#### ขั้นตอนที่ 3 นำไฟล์เอกสารแนบใส่ใน Folder ตามเดือนที่ต้องการอัปโหลดเอกสาร
-
-1. เข้าไปใน Folder ของเดือนที่ต้องการอัปโหลดเอกสารแนบ ในขั้นตอนที่ 2
-2. นำเอกสารแนบมาใส่ใน Folder ตามเดือนที่ต้องการอัปโหลดเอกสาร
+### Steps to prepare for importing files
 
 
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
-
-#### ขั้นตอนที่ 4 เมื่อเตรียม Folder เอกสารแนบเสร็จแล้วให้ทำ Folder เป็นไฟล์ .zip
-
-#### <mark style="background-color:purple;">ในการ Bulk import ต้องเป็นไฟล์ .zip เท่านั้น</mark>
 
 
+#### Step 1. Preparation of activity list folder
 
-### ขั้นตอนการ Import file
-
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
-1. เข้าหน้ากรอกข้อมูลรายการตรวจวัด
-2. กดปุ่ม Import หรือ นำเข้า
-3. เลือก Import file หรือ นำเข้าไฟล์
+1. Create a new Folder, the Folder name must have the activity item ID in front.You can view the ID the activity list on the web page go to the activity list page, there will be an ID number of the activity list on the link or Export data of that list, in the Export file, there will be an ID number of the list displayed.
+2. The Folder name after the ID can be the name of the activity list to make it easier to prepare documents
+3. The folder for documents must be a folder specifically for documents for that item.
 
 
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+Step 2: Prepare a folder to hold the documents of that item.
 
-1. คลิ๊กเพื่อเลือกไฟล์
-
-
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกไฟล์ .zip ที่ได้เตรียมไว้
+1. Go to the activity list folder created in step 1.
+2. Create a folder to put documents, sorted by the month you want to upload attachments, such as 01-01-2022.
+3. For months when there are no attached documents, there is no need to create a folder to put the documents.
 
 
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+Step 3: Place the attached document file in the folder according to the month you want to upload the document.
 
-1. กดปุ่ม ถัดไป
-
-
-
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-1. Import file สำเร็จ
+1. ﻿﻿﻿Go to the folder of the month you want to upload the attachments for in step 2.
+2. ﻿﻿﻿Place the attached documents in the folder according to the month you want to upload the documents.
 
 
 
-### ขั้นตอนการตรวจเช็คข้อมูลหลังจาก Import file
-
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
-
-1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Import file สำเร็จ
+Step 4: When you have prepared the attachment folder, make the folder into a zip file.
 
 
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+#### Bulk import must be a zip file only.
 
-<figure><img src="../.gitbook/assets/Screenshot 2567-02-27 at 14.15.00.png" alt=""><figcaption></figcaption></figure>
 
-* [x] กดเข้าที่ ลิงก์เอกสารประกอบข้อมูล
-* [x] แสดงไฟล์ที่ได้อัปโหลดเข้าระบบถูกต้อง
+
+### Import file steps
+
+
+
+
+
+1. Go to the Emission Log entry page.
+2. Press the Import button.
+3. Select Import file
+
+
+
+1. Press to select file
+
+
+
+1. Select the prepared zip file.
+
+
+
+1. Press the Next button.
+
+
+
+1. Import file successful
+
+
+
+### Data verification steps after importing file
+
+
+
+
+
+1. Go to Emission Log items
+
+
+
+* [x] Press on the information document link.
+* [x] Show files that have been uploaded to the system correctly.
