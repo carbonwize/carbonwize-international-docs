@@ -1,56 +1,50 @@
-# การจัดการบัญชีผู้ใช้
+# User account management
 
-## **ขั้นตอนการเพิ่มสมาชิก**
+Steps for adding members
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image%20(4)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่มเมนูตั้งค่าการใช้งาน
-2. กดปุ่มเมนูจัดการบัญชีผู้ใช้
-3. กดแท็บสมาชิก
-4. กดปุ่มเพิ่มบัญชีผู้ใช้งาน
+1. Press the menu button set up the usage.&#x20;
+2. Press the Manage User Accounts menu button.
+3. Press the member tab&#x20;
+4. Press the Add Account button.
 
+<figure><img src="../../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(2)%20(1).png" alt=""><figcaption></figcaption></figure>
 
+1. Enter name&#x20;
+2. Enter last name&#x20;
+3. Enter email&#x20;
+4. Select the role assigned (optional)&#x20;
+5. Enter Position (optional)&#x20;
+6. Enter Role description (optional)&#x20;
+7. Press the save button and request a password.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image%20(5)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. กรอกชื่อ
-2. กรอกนามสกุล
-3. กรอกอีเมล
-4. เลือกบทบาทที่ได้รับ (ไม่บังคับ)
-5. ใส่ Position (optional)
-6. ใส่ Role description (optional)
-7. กดปุ่มบันทึกและขอรหัสผ่าน
-
-
-
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. เมื่อกดปุ่มบันทึกการเพิ่มสมาชิกแล้ว ระบบจะแสดง popup รหัสผ่านของสมาชิก สามารถกดปุ่ม คัดลอก เพื่อส่งรหัสในการเข้าใช้ระบบให้กับสมาชิกได้ทันที
-2. สามารถเลือกการบังคับเปลี่ยนรหัสผ่านในการเข้าสู่ระบบครั้งถัดไปได้
-3. กดปุ่มยืนยัน
+1. When you press the Save Member Add button, the system will a popup with the member password. You can press the Copy button to send the login code to the member immediately.
+2. You can choose to force a password change on your next login.
+3. Press the Confirm button
 
 
 
-## **ขั้นตอนการแก้ไขสมาชิก**
+### Steps Editing Member
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image%20(6).png" alt=""><figcaption></figcaption></figure>
 
-1. กดแท็บสมาชิก
-2. กด icon
-3. แก้ไขข้อมูล
-
-
-
-## **ขั้นตอนการขอรหัสผ่านใหม่**
-
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-1. กดแท็บสมาชิก
-2. กดปุ่มขอรหัสผ่านใหม่&#x20;
+1. Press the member tab&#x20;
+2. Press the icon&#x20;
+3. Edit information
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### Procedure for requesting a new password
 
-1. ระบบจะลืมรหัสผ่านเก่าและสร้างรหัสผ่านใหม่ให้สามารถกดปุ่ม คัดลอก เพื่อส่งรหัสในการเข้าใช้ระบบให้กับสมาชิก (สามารถเปลี่ยนรหัสได้ภายหลัง)
-2. กดปุ่มยืนยัน
+<figure><img src="../../../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
+
+1. Press the member tab&#x20;
+2. Press the button to request a new password.
+
+<figure><img src="../../../.gitbook/assets/image%20(5)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+1. The system will forget the old password and create a new password. You can press the Copy button to send the login code to the member (you can change the password later).
+2. Press the Confirm button
