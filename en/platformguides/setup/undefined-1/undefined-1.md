@@ -1,33 +1,35 @@
-# การตั้งค่าอาคาร
+# Building structure settings
 
-## **ขั้นตอนการเพิ่มอาคาร**
-
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูตั้งค่าการใช้งาน
-2. กดเมนูตั้งค่าองค์กร
-3. กดแท็บโครงสร้างอาคาร
-4. กดปุ่มเพิ่มอาคาร
+### Step adding Building structure
 
 
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
-
-1. ใส่รายละเอียดข้อมูลอาคารให้ครบถ้วน
-2. กดปุ่มบันทึก
 
 
-
-## **ขั้นตอนการแก้ไขอาคาร**
-
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-
-1. กดแท็บโครงสร้างอาคาร
-2. กด icon
+1. Press the settings menu
+2. Press the organization settings menu
+3. Press on the building structure tab
+4. Press the Add Building structure button
 
 
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+1. Fill in complete building details.
+2. Press the save button
 
-1. แก้ไขข้อมูล
-2. กดปุ่มบันทึก
+
+
+### Step Editing Building structure
+
+
+
+
+
+1. Click on the building structure tab
+2. ﻿﻿﻿Press the icon
+
+
+
+
+
+1. Edit information
+2. ﻿﻿﻿Press the save button

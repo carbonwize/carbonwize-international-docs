@@ -1,6 +1,6 @@
 # Branch settings
 
-### Steps add branches
+### Steps adding branches
 
 
 

@@ -19,7 +19,7 @@
   * [Organization storage settings](platformguides/setup/undefined.md)
   * [Organization settings](platformguides/setup/undefined-1/README.md)
     * [Branch settings](platformguides/setup/undefined-1/undefined.md)
-    * [การตั้งค่าอาคาร](platformguides/setup/undefined-1/undefined-1.md)
+    * [Building structure settings](platformguides/setup/undefined-1/undefined-1.md)
     * [การตั้งค่าแผนก](platformguides/setup/undefined-1/undefined-1-1.md)
   * [รายการกิจกรรม](platformguides/setup/undefined-2.md)
   * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
