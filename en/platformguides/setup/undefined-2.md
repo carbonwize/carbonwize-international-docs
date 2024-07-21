@@ -1,73 +1,67 @@
-# รายการกิจกรรม
+# Activity Inventory
 
-## **ขั้นตอนการสร้างรายการกิจกรรม**
+### Steps creating an Activity Inventory
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเมนูตั้งค่าการใช้งาน
-2. กดเมนูรายการกิจกรรม
-3. กดปุ่มรายการกิจกรรมใหม่
+1. Press the settings menu
+2. Press the activity menu
+3. Press the new activity  button
 
+<figure><img src="../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
+#### Select the details of the organization for which you want to create an activity list.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+1. Select Organization
+2. Select branch
+3. Select a building
+4. Select department (optional)
+5. Press the next button
 
-#### เลือกรายละเอียดของบริษัทที่ต้องการสร้างรายการกิจกรรม
+<figure><img src="../../.gitbook/assets/image%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือกองค์กร
-2. เลือกสาขา
-3. เลือกอาคาร
-4. เลือกแผนก (ไม่บังคับ)
-5. กดปุ่มถัดไป
-
-
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกประเภทอุตสาหกรรม
-2. เลือกกิจกรรม
-3. กดปุ่ม ถัดไป
+1. Select industry type
+2. Select an activity
+3. Press the next button.
 
 {% hint style="success" %}
-การสร้างรายการกิจกรรม สามารถเลือกประเภทอุตสาหกรรม และ กิจกรรมได้มากกว่า 1 รายการ
+Creating an activity inventory can select more than one industry type and activity.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(4)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-* [x] สร้างรายการกิจกรรมสำเร็จ
+* [x] Activity inventory created successfully
 
 
 
-## ขั้นตอนการแก้ไขรายการกิจกรรม
+### Steps editing activity&#x20;
 
 <figure><img src="../../.gitbook/assets/screencapture-app-carbonwize-io-activity-list-2024-07-19-13_10_03.png" alt=""><figcaption></figcaption></figure>
 
-1. สามารถกดที่ icon หรือ ตามสัญลักษณ์ และแก้ไขรายการกิจกรรมได้ทันที
+1. You can press the icon or the symbol to edit the activity list immediately.
 
 
 
-## ขั้นตอนการลบรายการกิจกรรม (1 รายการ)
+### Steps to delete an activity  (1 item)
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(8)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. ตรวจเช็คชื่อรายการกิจกรรม
-2. กด icon ด้านหลังรายการ
-3. กดปุ่ม ลบ
-
-
-
-## ขั้นตอนการลบรายการกิจกรรม (มากกว่า 1 รายการ)
-
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกรายการ
-2. กดปุ่ม ลบ
+1. Press the list of activities inventory
+2. Press the icon behind the list.
+3. Press the Delete button.
 
 
 
-## ขั้นตอนการทำสำเนารายการกิจกรรม
+### Steps for deleting activity (more than 1)
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(9)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือกรายการ
-2. กดปุ่มสำเนา
+1. Select item
+2. Press the Delete button.
+
+Procedure for duplicating an activity list
+
+<figure><img src="../../.gitbook/assets/image%20(10)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+1. Select item
+2. Press the copy button

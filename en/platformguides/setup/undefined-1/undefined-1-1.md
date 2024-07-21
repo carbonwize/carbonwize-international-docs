@@ -1,6 +1,6 @@
 # Department Structure Settings
 
-### Step adding department structure
+### Steps adding department structure
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-### Step Editing Department Structure
+### Steps Editing Department Structure
 
 
 

@@ -1,6 +1,6 @@
 # Building structure Settings
 
-### Step adding building structure
+### Steps adding building structure
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-### Step Editing Building structure
+### Steps Editing Building structure
 
 
 

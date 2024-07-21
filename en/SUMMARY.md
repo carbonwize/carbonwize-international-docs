@@ -21,7 +21,7 @@
     * [Branch Settings](platformguides/setup/undefined-1/undefined.md)
     * [Building structure Settings](platformguides/setup/undefined-1/undefined-1.md)
     * [Department Structure Settings](platformguides/setup/undefined-1/undefined-1-1.md)
-  * [รายการกิจกรรม](platformguides/setup/undefined-2.md)
+  * [Activity Inventory](platformguides/setup/undefined-2.md)
   * [การจัดการบัญชีผู้ใช้](platformguides/setup/undefined-3/README.md)
     * [การตั้งค่าบทบาทอย่างละเอียด](platformguides/setup/undefined-3/undefined.md)
     * [การมอบหมายงาน](platformguides/setup/undefined-3/undefined-1.md)
