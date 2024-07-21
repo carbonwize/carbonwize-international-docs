@@ -2,14 +2,18 @@
 
 Steps for adding members
 
-<figure><img src="../../../.gitbook/assets/image%20(4)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 1. Press the menu button set up the usage.&#x20;
 2. Press the Manage User Accounts menu button.
 3. Press the member tab&#x20;
 4. Press the Add Account button.
 
-<figure><img src="../../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(2)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 1. Enter name&#x20;
 2. Enter last name&#x20;
@@ -19,7 +23,9 @@ Steps for adding members
 6. Enter Role description (optional)&#x20;
 7. Press the save button and request a password.
 
-<figure><img src="../../../.gitbook/assets/image%20(5)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 1. When you press the Save Member Add button, the system will a popup with the member password. You can press the Copy button to send the login code to the member immediately.
 2. You can choose to force a password change on your next login.
@@ -29,7 +35,9 @@ Steps for adding members
 
 ### Steps Editing Member
 
-<figure><img src="../../../.gitbook/assets/image%20(6).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 1. Press the member tab&#x20;
 2. Press the icon&#x20;
@@ -39,12 +47,16 @@ Steps for adding members
 
 ### Procedure for requesting a new password
 
-<figure><img src="../../../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 1. Press the member tab&#x20;
 2. Press the button to request a new password.
 
-<figure><img src="../../../.gitbook/assets/image%20(5)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 1. The system will forget the old password and create a new password. You can press the Copy button to send the login code to the member (you can change the password later).
 2. Press the Confirm button
