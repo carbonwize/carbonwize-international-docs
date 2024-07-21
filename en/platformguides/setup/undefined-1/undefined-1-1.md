@@ -1,33 +1,33 @@
-# การตั้งค่าแผนก
+# Department Structure Settings
 
-## **ขั้นตอนการเพิ่มแผนก**
-
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูการตั้งค่าการใช้งาน
-2. กดเมนูตั้งค่าองค์กร
-3. กดแท็บโครงสร้างแผนก
-4. กดปุ่มเพิ่มแผนก
+### Step adding department structure
 
 
 
-<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
-
-1. ใส่รายละเอียดข้อมูลแผนกให้ครบถ้วน
-2. กดปุ่มบันทึก
 
 
-
-## **ขั้นตอนการแก้ไขแผนก**
-
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูโครงสร้างแผนก
-2. กด icon&#x20;
+1. Press the settings menu
+2. Press the organization settings menu
+3. Press the Department Structure tab
+4. Press the Add Department Structure button
 
 
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+1. Fill in the Department Structure details completely.
+2. Press the save button
 
-1. แก้ไขข้อมูล
-2. กดปุ่มบันทึก
+
+
+### Step Editing Department Structure
+
+
+
+
+
+1. Press the department structure menu
+2. Press the icon
+
+
+
+1. Edit information
+2. Press the save button

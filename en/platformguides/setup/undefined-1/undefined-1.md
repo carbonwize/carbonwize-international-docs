@@ -1,6 +1,6 @@
-# Building structure settings
+# Building structure Settings
 
-### Step adding Building structure
+### Step adding building structure
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-1. Click on the building structure tab
+1. Press on the building structure tab
 2. ﻿﻿﻿Press the icon
 
 

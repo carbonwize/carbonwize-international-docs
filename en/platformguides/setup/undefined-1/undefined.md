@@ -1,4 +1,4 @@
-# Branch settings
+# Branch Settings
 
 ### Steps adding branches
 
@@ -8,7 +8,7 @@
 
 1. Press the settings menu
 2. Press the branches settings menu
-3. Click on the branch tab
+3. Press on the branch tab
 4. Press the add branch button
 
 
@@ -22,7 +22,7 @@
 
 
 
-1. Click on the branch tab
+1. Press on the branch tab
 2. Press the icon
 
 

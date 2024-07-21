@@ -1,6 +1,6 @@
 # Organization storage settings
 
-1. Click on the icon
+1. Press on the icon
 
 
 

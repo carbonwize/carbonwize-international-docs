@@ -1,4 +1,4 @@
-# Organization settings
+# Organization Settings
 
 ### Steps adding a sub-organization
 
@@ -8,7 +8,7 @@
 
 1. Press the settings menu
 2. Press the organization settings menu
-3. Click on the Organization Structure tab
+3. Press on the Organization Structure tab
 4. Press the Add Organization button
 
 
