@@ -1,33 +1,37 @@
-# การตั้งค่าองค์กร
+# Organization settings
 
-## **ขั้นตอนการเพิ่มองค์กรย่อย**
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูตั้งค่าการใช้งาน
-2. กดเมนูตั้งค่าองค์กร
-3. กดแท็บโครงสร้างองค์กร
-4. กดปุ่มเพิ่มองค์กร
+### Procedure for adding a sub-organization
 
 
 
-<figure><img src="../../../.gitbook/assets/screencapture-app-carbonwize-io-company-structure-2024-07-19-12_43_37.png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกรายละเอียดข้อมูลขององค์กรย่อยให้ครบถ้วน
-2. กดปุ่มบันทึก
 
 
-
-## **ขั้นตอนการแก้ไของค์กร**
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดแท็บโครงสร้างองค์กร
-2. กด icon
+1. Press the settings menu
+2. Press the organization settings menu
+3. Click on the Organization Structure tab
+4. Press the Add Organization button
 
 
 
-<figure><img src="../../../.gitbook/assets/screencapture-app-carbonwize-io-company-structure-2024-07-19-12_45_49.png" alt=""><figcaption></figcaption></figure>
 
-1. แก้ไขข้อมูล
-2. กดปุ่มบันทึก
+
+1. Fill in the details of the subsidiary organization completely.
+2. Press the save button
+
+
+
+### Procedure Organizational Edit
+
+
+
+
+
+1. Click on the Organization Structure tab
+2. Press the icon
+
+
+
+
+
+1. Edit information
+2. Press the save button
