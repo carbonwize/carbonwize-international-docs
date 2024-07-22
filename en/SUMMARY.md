@@ -40,13 +40,13 @@
 * [🗂️ Verifying information](platformguides/undefined-3.md)
 * [🗂️ Export  Verifying information report](platformguides/export.md)
 
-## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
+## MOBILE PLATFORM USER GUIDE <a href="#platformguides" id="platformguides"></a>
 
-* [📝 ขั้นตอนการติดตั้งระบบ Android](platformguides-1/android.md)
-* [📝 ขั้นตอนการติดตั้งระบบ iOS](platformguides-1/data-input.md)
-* [💡 ขั้นตอนการเข้าสู่ระบบ](platformguides-1/undefined-2.md)
-* [📋 ขั้นตอนการเพิ่มข้อมูล](platformguides-1/undefined-3.md)
-* [📋 ขั้นตอนการแก้ไขข้อมูล](platformguides-1/undefined-4.md)
+* [📝 Android installation steps](platformguides-1/android.md)
+* [📝 iOS installation steps](platformguides-1/data-input.md)
+* [💡 Login with Mobile](platformguides-1/undefined-2.md)
+* [📋 Steps for Emission Log](platformguides-1/undefined-3.md)
+* [📋 Emission Log correction](platformguides-1/undefined-4.md)
 * [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม ผู้ทวนสอบ <a href="#platformguides" id="platformguides"></a>

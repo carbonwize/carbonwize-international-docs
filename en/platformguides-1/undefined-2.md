@@ -1,7 +1,9 @@
-# 💡 ขั้นตอนการเข้าสู่ระบบ
+# 💡 Login with Mobile
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-1. กดเข้า app&#x20;
-2. กรอก Email Address และ password&#x20;
-3. กดปุ่ม Log in
+
+
+
+1. Press to enter the app
+2. ﻿﻿﻿Enter your Email Address and password.
+3. ﻿﻿﻿Press the Log in button.
