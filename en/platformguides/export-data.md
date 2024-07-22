@@ -1,51 +1,71 @@
 # 🔀 Export data
 
-## Export data รายการทั้งหมด
-
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนู กรอกข้อมูลรายการตรวจวัด
-2. กดปุ่ม “Export data”
-
-{% hint style="info" %}
-_**การ Export data จะเป็นการนำประวัติข้อมูลรายการตรวจวัดทุกรายการที่ได้กรอกลงในระบบทั้งหมดออกมาเป็น ไฟล์ .CSV File,.XLSX File โดยสามารถเลือกช่วงเวลาที่ต้องการนำข้อมูลออกมาได้**_
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกประเภทไฟล์
-2. เลือกช่วงเวลา (หากไม่ได้เลือกช่วงเวลาระบบจะ Export ข้อมูลออกมาทั้งหมดทุกช่วงเวลา)
-3. กดปุ่ม ส่งออกข้อมูล
-
-*   #### เมื่อกดปุ่ม ส่งออกข้อมูล แล้วตัวไฟล์ข้อมูลจะถูกอัพโหลดลงเครื่องอัตโนมัติ
+## Export data all items
 
 
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
-
-* #### เมื่อ Export data ออกมาแล้วจะแสดงรายการและข้อมูลที่ได้กรอกไว้ทั้งหมดตามระยะเวลาที่ได้เลือกไว้
 
 
-
-## Export data บางรายการ
-
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. ค้นหาชื่อรายการที่ต้องการ Export data
-2. กดปุ่ม Export data
+1. Press the menu Emission Log.&#x20;
+2. Press the Export data button.
 
 {% hint style="info" %}
-_**การ Export data จะเป็นการนำประวัติข้อมูลรายการตรวจวัดทุกรายการที่ได้กรอกลงในระบบทั้งหมดออกมาเป็น ไฟล์ .CSV File,.XLSX File โดยสามารถเลือกช่วงเวลาที่ต้องการนำข้อมูลออกมาได้**_
+Exporting data will take the history of all Emission Log items entered into the system into a CSV File, XLSX File. You can select the time period for which you want to export the data.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. เลือกประเภทไฟล์
-2. เลือกช่วงเวลา (หากไม่ได้เลือกช่วงเวลาระบบจะ Export ข้อมูลออกมาทั้งหมดทุกช่วงเวลา)
-3. กดปุ่ม “ส่งออกข้อมูล”
 
-* #### เมื่อกดปุ่ม “ส่งออกข้อมูล” แล้วตัวไฟล์ข้อมูลจะถูกอัพโหลดลงเครื่องอัตโนมัติ
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-* #### เมื่อ Export data ออกมาแล้วจะแสดงรายการและข้อมูลที่ได้กรอกไว้ทั้งหมดตามระยะเวลาและตัวรายการที่ได้เลือกไว้
+1. Select file type&#x20;
+2. Select a time period (If no time period is selected, the system will export all data for all time)&#x20;
+3. Press the Export Data button.
+
+* When you press the Export Data button, the data file will be automatically uploaded to the device.
+
+
+
+
+
+
+
+
+
+• When the data is exported, it will show all the data entered according to the selected time period.
+
+
+
+## Export some data
+
+
+
+
+
+
+
+1. ﻿﻿﻿Search for the name of the item you want to export data from.
+2. ﻿﻿﻿Press the Export data button.
+
+{% hint style="info" %}
+Exporting data will take the history of all measurement items entered into the system into a CSV File, XLSX File. You can select the time period for which you want to export the data.
+{% endhint %}
+
+
+
+
+
+1. Select file type&#x20;
+2. Select a time period (If no time period is selected, the system will export all data for all time)
+3. Press the Export data button.&#x20;
+
+* When you press the "Export Data" button, the data file will be automatically uploaded to the device.
+
+
+
+
+
+
+
+
+
+• When the data is exported, it will show all the items and data entered according to the time period and items selected.
