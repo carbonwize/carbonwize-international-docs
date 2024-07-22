@@ -53,7 +53,7 @@
 
 * [📬 Registration steps as a auditor](platformguides-2/auditor-at-cwallet.md)
 * [📬 Procedure for accepting an invitation to become an auditor in the organization in the system](platformguides-2/undefined-1.md)
-* [💻 เข้าสู่ระบบ ผู้ทวนสอบ](platformguides-2/undefined.md)
+* [💻 Login Auditor](platformguides-2/undefined.md)
 * [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
   * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
 * [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
