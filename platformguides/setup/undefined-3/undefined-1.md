@@ -13,7 +13,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-* [x] แสดงรายการที่ได้รับมอบหมายทั้งหมด
+* แสดงรายการที่ได้รับมอบหมายทั้งหมด
 
 
 
@@ -35,4 +35,4 @@
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-* [x] แสดงงานที่ได้รับมอบหมายถูกต้อง
+* แสดงงานที่ได้รับมอบหมายถูกต้อง

@@ -17,5 +17,5 @@
 
 <figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
-* [x] เมื่อบันทึกรายการแล้ว รายการที่สร้างจะแสดงในหน้า Custom Emission Factor, Mapping Emission Factor
-* [x] สามารถแก้ไขและกดดูไฟล์เอกสารแนบได้
+* เมื่อบันทึกรายการแล้ว รายการที่สร้างจะแสดงในหน้า Custom Emission Factor, Mapping Emission Factor
+* สามารถแก้ไขและกดดูไฟล์เอกสารแนบได้

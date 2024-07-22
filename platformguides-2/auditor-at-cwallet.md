@@ -10,10 +10,10 @@
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-✅ เมื่อได้รับเมลแจ้งเตือนแล้ว รอทาง Carbonwize ติดต่อและส่งเมลตอบกลับอีกครั้ง
+* เมื่อได้รับเมลแจ้งเตือนแล้ว รอทาง Carbonwize ติดต่อและส่งเมลตอบกลับอีกครั้ง
 
 
 
 <figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
-* [x] เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบโดยใช้ password ที่แสดงในเมลได้ทันที
+* เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบโดยใช้ password ที่แสดงในเมลได้ทันที
