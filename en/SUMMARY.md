@@ -35,7 +35,7 @@
   * [Step for requesting](platformguides/approve-items/undefined-2.md)
 * [📋 Transaction Log](platformguides/undefined-2.md)
 * [📊 Emission Factor](platformguides/emission-factor/README.md)
-  * [กำหนด Emission Factor เอง](platformguides/emission-factor/emission-factor.md)
+  * [Custom Emission Factor](platformguides/emission-factor/emission-factor.md)
   * [การระบุค่าการปล่อยก๊าซเรือนกระจก (EF)](platformguides/emission-factor/ef.md)
 * [🗂️ ทวนสอบข้อมูล](platformguides/undefined-3.md)
 * [🗂️ Export รายงานข้อมูลทวนสอบ](platformguides/export.md)

@@ -1,21 +1,25 @@
-# กำหนด Emission Factor เอง
+# Custom Emission Factor
 
-## ขั้นตอนการสร้างค่าการปล่อยก๊าซเรือนกระจก ที่กำหนดขึ้นเอง
-
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนู Custom Emission Factor
-2. กดปุ่ม เพิ่ม
+## Step for generating customized Emission Factor
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกข้อมูล รายละเอียด EF ทั้งหมดให้ครบถ้วน
 
 
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
-* [x] เมื่อบันทึกรายการแล้ว รายการที่สร้างจะแสดงในหน้า Custom Emission Factor, Mapping Emission Factor
-* [x] สามารถแก้ไขและกดดูไฟล์เอกสารแนบได้
+1. Press the Custom Emission Factor menu.
+2. ﻿﻿﻿Press the Add button
+
+
+
+
+
+1. Fill in all Emission Factor details completely.
+
+
+
+
+
+* [x] Once the entry is saved, the created entry will be displayed in the Custom Emission Factor and Mapping Emission Factor pages.
+* [x] You can edit and view attached documents.
