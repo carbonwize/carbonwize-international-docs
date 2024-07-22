@@ -1,14 +1,16 @@
-# หน้าโปรไฟล์
+# Profile page
 
-### หน้าโปรไฟล์
-
-<figure><img src="../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูโปรไฟล์
-2. กดเมนูข้อมูลส่วนนตัว
+#### Profile page
 
 
 
-<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. จะแสดงหน้าข้อมูลส่วนตัวสามารถแก้ไขโปรไฟล์โดยการอัปโหลดรูปภาพ, เปลี่ยนชื่อ-นามสกุลได้
+
+1. ﻿﻿﻿Press the profile menu
+2. ﻿﻿﻿Press the personal information menu
+
+
+
+
+
+1. It will show the personal information page where you can edit your profile by uploading a photo, changing your first and last name.

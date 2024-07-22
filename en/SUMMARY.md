@@ -55,8 +55,8 @@
 * [📬 Procedure for accepting an invitation to become an auditor in the organization in the system](platformguides-2/undefined-1.md)
 * [💻 Login Auditor](platformguides-2/undefined.md)
 * [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
-  * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
-* [หน้าโปรไฟล์](platformguides-2/undefined-3.md)
+  * [📈 Organization Overview](platformguides-2/undefined-2/undefined-1.md)
+* [Profile page](platformguides-2/undefined-3.md)
 
 ## เกร็ดความรู้ <a href="#tips" id="tips"></a>
 
