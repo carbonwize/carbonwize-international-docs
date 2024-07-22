@@ -1,26 +1,26 @@
-# ขั้นตอนการอนุมัติรายการ
+# Step Item approval
 
-## **ขั้นตอนการอนุมัติรายการ**
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูการอนุมัติรายการ
-2. กดแท็บรออนุมัติ
-3. กดเลือกรายการที่ต้องการอนุมัติ
+## Step Item approval
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### ตรวจเช็คข้อมูลรายการ
 
-1. วันที่ เดือน, ปี
-2. ปริมาณ
-3. ไฟล์แนบ
-4. กดปุ่มอนุมัติ
+1. Press the approval menu
+2. Press the tab wait for approval.&#x20;
+3. Press to select the items you want to approve.
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+#### Check item information
 
-* [x] เมื่ออนุมัติรายการเรียบร้อยรายการจะเข้าไปอยู่ในแท็บ <mark style="background-color:green;">อนุมัติแล้ว</mark>
+
+
+1. Date Month Year
+2. ﻿﻿﻿amount
+3. ﻿﻿﻿Attachments
+4. ﻿﻿﻿Press the approve button
+
+
+
+* [x] Once the item is approved, it will be placed in the tab. Approved
