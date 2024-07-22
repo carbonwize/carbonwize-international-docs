@@ -1,137 +1,143 @@
-# 🗂️ ทวนสอบข้อมูล
+# 🗂️ Verifying information
 
-## การทวนสอบข้อมูล
-
-<figure><img src="../.gitbook/assets/2023-09-04_16-17.png" alt=""><figcaption></figcaption></figure>
-
-1. แสดงปีที่ทวนสอบข้อมูล
-2. แสดงสถานะของบริษัทและผู้ทวนสอบ
-3. แสดงวันที่เริ่ม-สิ้นสุดทวนสอบข้อมูล
-4. แสดงข้อมูลผู้ทวนสอบ
-5. สามารถกดเข้าไปในการ์ดเพื่อดูข้อมูลในการทวนสอบได้
+## Verifying information
 
 
 
-## สร้างการทวนสอบข้อมูล
-
-<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนูทวนสอบข้อมูล
-2. กดปุ่มเพิ่มการทวนสอบ
 
 
+1. Show the year of data Verifying information&#x20;
+2. Displays the status of the company and the auditor&#x20;
+3. Show the start and end dates of data review.&#x20;
+4. Show auditor information&#x20;
+5. &#x20;You can click on the card to view the Verifying information.
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+## Create a data review
 
-#### กรอกข้อมูลให้ครบถ้วน
 
-1. ชื่อรายการทวนสอบ
-2. เลือกมาตรฐานสิ่งแวดล้อม
-3. เลือกองค์กรที่ต้องการทวนสอบ
-4. เลือกผู้ประสานงาน
-5. เลือกข้อมูลปีฐาน
-6. เลือกระยะเวลาในการติดตามผล
-7. เพิ่มผู้ที่มีสิทธิ์เข้าถึง
-8. ระดับของการรับรอง
-9. ระดับความมีสาระสำคัญ
-10. หมายเหตุ (ถ้ามี)
+
+
+
+1. Press the menu to Verifying information.&#x20;
+2. Press the Add auditing process button
+
+
+
+#### Fill in the information completely.
+
+
+
+1. Enter the name of the standard you want to audit
+2. ﻿﻿﻿Select environmental standards
+3. ﻿﻿﻿Select the organization you want to review
+4. ﻿﻿﻿Select a coordinator
+5. ﻿﻿﻿Select base year data
+6. ﻿﻿﻿Select the follow-up period
+7. ﻿﻿﻿Add access rights
+8. ﻿﻿﻿Level of certification
+9. ﻿﻿﻿Level of significance
+10. ﻿﻿﻿﻿Note (if any)
 
 {% hint style="info" %}
-เมื่อบันทึกการแล้วจะแสดงหน้าการทวนสอบ สามารถกดเข้าไปดูข้อมูลการทวนสอบได้
+When the audit is saved, it will be displayed on the audit page. You can click to view the audit information.&#x20;
 
-เมื่อกดเข้าไปในการ์ดจะแสดงข้อมูลของปีงบประมาณ ข้อมูลของบริษัทที่ทวนสอบ
+When you click on the audit, it will show the fiscal year and company information that is being audited.
 {% endhint %}
 
-## หน้าข้อมู​ลทั่วไปขององค์กร
+##
 
-<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
-
-#### แสดงข้อมู​ลทั่วไปขององค์กร
-
-1. แสดงขอบเขต
-2. กิจกรรมทั้งหมดขององค์กร
-3. การจัดการคุณภาพของข้อมูล
-4. การกักเก็บคาร์บอน / ลดคาร์บอน
-5. บันทึกการสอบเทียบ
-
-## หน้าข้อมูลที่จำเป็นของรายงาน
-
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
-
-1. กรอกบทนำเพื่อแสดงข้อมูลใน Report
-2. กรอกรายละเอียดขอบเขตองค์กรเพิ่มเติม (หากมี) เพื่อแสดงข้อมูลใน Report
+## General information of the organization tab
 
 
 
-## หน้ารายการกิจกรรม
+#### Displays general information about the organization
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.21.07.png" alt=""><figcaption></figcaption></figure>
-
-1. หน้ารายการกิจกรรมแสดงข้อมูลรายการของบริษัททั้งหมดโดยเรียงตาม scope
-2. สามารถกดในรายการเพื่อดูข้อมูลเพิ่มเติมของรายการนั้นได้
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.20.25.png" alt=""><figcaption></figcaption></figure>
-
-1. เมื่อกดในรายการแล้ว จะแสดงข้อมูลข้อมูลทั้งหมดของแต่ละเดือน และแสดงเปอร์เซ็นความเปลี่ยนแปลงระหว่างปีก่อนหน้ากับปีปัจจุบัน
-2. สามารถดูเอกสารแนบเพิ่มเติมได้
+1. Show scope
+2. ﻿﻿﻿All activities of the organization
+3. ﻿﻿﻿Data quality management
+4. ﻿﻿﻿Carbon sequestration/carbon reduction
+5. ﻿﻿﻿Calibration record
 
 
 
-## หน้าค่าการปล่อยก๊าซเรือนกระจก
-
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
-
-1. หน้าค่าการปล่อยก๊าซเรือนกระจกแสดงข้อมูลรายการของบริษัททั้งหมดโดยเรียงตาม scope
-2. สามารถกดปุ่มตามลูกศรเพื่อดูค่า GHG รวม (tCo2eq)
+## Required information tab of the report
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.22.29.png" alt=""><figcaption></figcaption></figure>
-
-1. เมื่อกดปุ่มตามลูกศรแล้วจะแสดงค่า GHG รวม (tCo2eq) ของรายการนั้น
 
 
+1. Fill in the introduction to display the information in the Report
+2. Fill in additional details of the organization scope (if any) to display the information in the Report
 
-## หน้าการแบ่งสัดส่วนองค์กร
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.22.55.png" alt=""><figcaption></figcaption></figure>
-
-1. หน้าการแบ่งสัดส่วนองค์กรจะแสดงเปอร์เซ็นการแบ่งสัดส่วนคาร์บอนของแต่ละรายการตาม scope เมื่อแบ่งเปอร์เซ็นแล้ว ผลรวมต้องเท่ากับ 100%
+## Activity list tab
 
 
 
-## หน้านัยสำคัญ
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.23.21.png" alt=""><figcaption></figcaption></figure>
-
-1. หน้านัยสำคัญจะแสดงระดีบความมีสาระสำคัญของ scope 1-2 เท่านั้น
 
 
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.23.50.png" alt=""><figcaption></figcaption></figure>
-
-1. ในส่วนของ scope 3 จะแสดงในเรื่องของแหล่งการปล่อยก๊าซตามรายการที่แสดง ในกรณีที่มีการปล่อยก๊าซตามรายการบริษัทจะต้องใส่คะแนนระดับของแรงจูงใจ, โอกาส หรือความเสี่ยง เพื่อประเมินความเสี่ยง
+1. The Activity List page shows all the company's activity data sorted by scope.&#x20;
+2. You can click on an item to see more information about that item.
 
 
 
-## หน้าการประเมินความไม่แน่นอน
-
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.24.14.png" alt=""><figcaption></figcaption></figure>
-
-1. หน้าการประเมินความไม่แน่นอนแสดง points ตามเกณฑ์การประเมินของรายการตาม scope นั้น
 
 
+1. When you click on an item, it shows all the data for each month and shows the changes between last year and the current year.
+2. You can view additional attachments.
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.24.40.png" alt=""><figcaption></figcaption></figure>
-
-1. เกณฑ์การประเมิน
+## Emission Factor tab
 
 
 
-## รายงานการแก้ไขข้อบกพร่อง
 
-<figure><img src="../.gitbook/assets/Screenshot 2566-11-01 at 19.27.23.png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อมีรายงานจากผู้ทวนสอบสามารถแก้ไขรายงานจากนั้นสามารถอัปเดตสถานะการแก้ไขและเพิ่มคำชี้แจงได้
+1. The Greenhouse Gas Emissions page shows all company data sorted by scope.
+2. ﻿﻿﻿You can press the arrow keys to view the total GHG values (tCo2eq).
+
+
+
+
+
+1. When you press the arrow buttons, the total GHG value (tCo2eq) of that item will be displayed.
+
+##
+
+## Significance tan
+
+
+
+1\. The significance page will only show the significance level of scope 1-2.
+
+
+
+
+
+
+
+1. In the scope 3 section, it shows the listed emissions sources. In the case of listed emissions, the company must enter a score on the level of incentive, opportunity or risk to assess the risk.
+
+
+
+## Measurement uncertainty tab
+
+
+
+
+
+1. The uncertainty assessment page shows points based on the assessment criteria for items in that scope.
+
+
+
+
+
+1. Evaluation criteria
+
+## Correction report tab
+
+
+
+
+
+
+
+1. When a report is received from the auditor, the report can be edited, then the edit status can be updated and clarifications added.
