@@ -29,7 +29,7 @@
 * [📝 Emission Log](platformguides/data-input.md)
 * [🔀 Import data & Import file](platformguides/import-and-export.md)
 * [🔀 Export data](platformguides/export-data.md)
-* [✅ การอนุมัติรายการ](platformguides/approve-items/README.md)
+* [✅ Activity approval](platformguides/approve-items/README.md)
   * [ขั้นตอนการอนุมัติรายการ](platformguides/approve-items/undefined.md)
   * [ขั้นตอนการไม่อนุมัติรายการ](platformguides/approve-items/undefined-1.md)
   * [ขั้นตอนการขอแก้ไขรายการ](platformguides/approve-items/undefined-2.md)
