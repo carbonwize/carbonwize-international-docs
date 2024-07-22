@@ -1,6 +1,6 @@
-# Step Item approval
+# Step Item Approval
 
-## Step Item approval
+## Step Item Approval
 
 
 

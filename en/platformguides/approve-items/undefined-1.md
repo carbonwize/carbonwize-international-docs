@@ -1,47 +1,49 @@
-# ขั้นตอนการไม่อนุมัติรายการ
+# Step Item Disapproval
 
-## **ขั้นตอนการไม่อนุมัติรายการ**
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนู การอนุมัติรายการ
-2. กดแท็บ รออนุมัติ
-3. กดเลือกรายการที่ต้องการอนุมัติ
+## Step Item Disapproval
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-#### ตรวจเช็คข้อมูลรายการ
 
-1. วันที่ เดือน, ปี
-2. ปริมาณ
-3. ไฟล์แนบ
-4. กดปุ่มไม่อนุมัติ
+1. Press the approval menu&#x20;
+2. Press the tab, pending approval.&#x20;
+3. Click to select the items you want to approve.
 
 
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-#### ไม่อนุมัติรายการ
 
-1. สามารถใส่คำอธิบายเพื่อให้ทราบว่าข้อมูลผิด
-2. กดปุ่มไม่อนุมัติ
+#### Check item information
 
 
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* #### เมื่อรายการไม่ถูกอนุมัติตัวรายการจะต้องทำการแก้ไขข้อมูลอีกครั้ง
-
-1. กดแท็บไม่อนุมัติ
-2. เลือกรายการที่ไม่อนุมัติเพื่อแก้ไขข้อมูล
+1. Date Month Year
+2. ﻿﻿﻿Amount
+3. ﻿﻿﻿Attachments
+4. ﻿﻿﻿Press the disapprove button
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 17.18.50.png" alt=""><figcaption></figcaption></figure>
+#### Item not approved
 
-1. แก้ไขข้อมูลที่ผิด
-2. กดปุ่มบันทึก
+1. You can provide a description to inform the team if the information is incorrect.
+2. Press the Disapprove button
 
-* #### เมื่อกดบันทึกรายการแล้วตัวรายการจะไปยังขั้นตอน การอนุมัติรายการอีกครั้ง
+
+
+* When an item is not approved, the item must be edited again.
+
+
+
+1. Press the disapproved tab
+2. ﻿﻿﻿Select the disapproved items to edit the information.
+
+
+
+
+
+1. Correct incorrect information
+2. Press the save button
+
+* When you press save, the item will go to the item approval step again.
