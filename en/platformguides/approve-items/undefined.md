@@ -7,7 +7,7 @@
 
 
 1. Press the approval menu
-2. Press the tab wait for approval.&#x20;
+2. Press the tab pending approval.
 3. Press to select the items you want to approve.
 
 
@@ -17,7 +17,7 @@
 
 
 1. Date Month Year
-2. ﻿﻿﻿amount
+2. ﻿﻿﻿Amount
 3. ﻿﻿﻿Attachments
 4. ﻿﻿﻿Press the approve button
 
