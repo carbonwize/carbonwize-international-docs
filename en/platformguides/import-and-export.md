@@ -178,5 +178,5 @@ Step 4: When you have prepared the attachment folder, make the folder into a zip
 
 
 
-* [x] Press on the information document link.
-* [x] Show files that have been uploaded to the system correctly.
+* Press on the information document link.
+* Show files that have been uploaded to the system correctly.

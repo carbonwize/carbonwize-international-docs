@@ -1,4 +1,4 @@
-# Step Item Approval
+# Step item approval
 
 ## Step Item Approval
 
@@ -23,4 +23,4 @@
 
 
 
-* [x] Once the item is approved, it will be placed in the tab. Approved
+* Once the item is approved, it will be placed in the tab. Approved

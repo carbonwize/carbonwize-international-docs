@@ -11,7 +11,7 @@
 
 
 
-* [x] Check your email to reset your password.
+* Check your email to reset your password.
 
 
 
@@ -23,4 +23,4 @@
 2. Enter to confirm your password
 3. Press the reset password button
 
-* [x] Log in using new password only.
+* Log in using new password only.

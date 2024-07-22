@@ -4,8 +4,8 @@
 
 1. Press the Get started button
 
-* [x] In case you have never set up the usage, every time you log in, the system will prompt you to set up the usage until it is successful.
-* [x] In case you have previously set up the usage setting, the system will immediately take you to the Emission Log page.
+* In case you have never set up the usage, every time you log in, the system will prompt you to set up the usage until it is successful.
+* In case you have previously set up the usage setting, the system will immediately take you to the Emission Log page.
 
 
 
@@ -27,11 +27,11 @@
 
 
 
-* [x] Please wait for the system to set up the usage.
+* Please wait for the system to set up the usage.
 
 
 
 
 
-* [x] When the system has created the database, the data Emission Log page will appear immediately.
-* [x] You can read about the operation of the system functions in the user manual.
+* When the system has created the database, the data Emission Log page will appear immediately.
+* You can read about the operation of the system functions in the user manual.

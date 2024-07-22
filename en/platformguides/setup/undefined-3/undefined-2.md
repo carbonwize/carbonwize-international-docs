@@ -24,4 +24,4 @@
 
 <figure><img src="../../../.gitbook/assets/image%20(2)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-* [x] When a reviewer accepts the invitation, their name and reviewer information will be displayed on the Add Reviewer page.
+* When a reviewer accepts the invitation, their name and reviewer information will be displayed on the Add Reviewer page.

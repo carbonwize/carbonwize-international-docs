@@ -15,7 +15,7 @@
 
 
 
-* [x] Show all assigned items
+* Show all assigned items
 
 ### Steps Work assignment
 
@@ -35,4 +35,4 @@
 
 
 
-* [x] Show the assigned tasks correctly
+* Show the assigned tasks correctly

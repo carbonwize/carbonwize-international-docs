@@ -30,7 +30,7 @@ Creating an activity inventory can select more than one industry type and activi
 
 <figure><img src="../../.gitbook/assets/image%20(4)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-* [x] Activity inventory created successfully
+* Activity inventory created successfully
 
 
 

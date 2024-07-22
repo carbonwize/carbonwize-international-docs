@@ -20,4 +20,4 @@
 
 
 
-* [x] Once the Emission Factor Mapping is complete, the Factor is used to calculate the greenhouse gas emissions of that item.
+* Once the Emission Factor Mapping is complete, the Factor is used to calculate the greenhouse gas emissions of that item.

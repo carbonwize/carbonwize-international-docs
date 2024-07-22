@@ -1,4 +1,4 @@
-# 🗂️ Export Verifying information
+# 🗂️ Export  Verifying information report
 
 
 
@@ -15,4 +15,4 @@
 
 
 
-* [x] Exported will be according to the selected file type.
+* Exported will be according to the selected file type.

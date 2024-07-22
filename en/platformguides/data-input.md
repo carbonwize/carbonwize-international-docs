@@ -27,7 +27,7 @@
 
 <figure><img src="../.gitbook/assets/image%20(40).png" alt=""><figcaption></figcaption></figure>
 
-* [x] When the draft is successfully saved, the information will be displayed on the history page, with the status as draft.
+* When the draft is successfully saved, the information will be displayed on the history page, with the status as draft.
 
 \
 Steps for editing draft record data
@@ -73,5 +73,5 @@ Steps for editing draft record data
 
 <figure><img src="../.gitbook/assets/image%20(4)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-* [x] When the approval request is submitted, the information will be displayed on the history page and the status will be displayed as Pending.
-* [x] When the status isWaiting for approvalThe information cannot be edited as it has already been submitted for approval.
+* When the approval request is submitted, the information will be displayed on the history page and the status will be displayed as Pending.
+* When the status isWaiting for approvalThe information cannot be edited as it has already been submitted for approval.

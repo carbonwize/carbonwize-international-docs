@@ -21,5 +21,5 @@
 
 
 
-* [x] Once the entry is saved, the created entry will be displayed in the Custom Emission Factor and Mapping Emission Factor pages.
-* [x] You can edit and view attached documents.
+* Once the entry is saved, the created entry will be displayed in the Custom Emission Factor and Mapping Emission Factor pages.
+* You can edit and view attached documents.

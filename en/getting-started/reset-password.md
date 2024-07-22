@@ -1,4 +1,4 @@
-# 🔐 เปลี่ยนรหัสผ่าน
+# 🔐 Change password
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,4 +20,4 @@
 
 1. When you press the Confirm button to save and exit the system
 
-* [x] Log in again using the new code only.
+* Log in again using the new code only.
