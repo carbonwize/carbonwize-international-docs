@@ -1,5 +1,5 @@
-# 📋 บันทึกการทำธุรกรรม
+# 📋 Transaction Log
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(71).png" alt=""><figcaption></figcaption></figure>
 
-* [x] แสดงความเคลื่อนไหวในระบบทั้งหมด
+* [x] Shows all system movements
