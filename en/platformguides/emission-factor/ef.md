@@ -1,23 +1,23 @@
-# การระบุค่าการปล่อยก๊าซเรือนกระจก (EF)
+# Mapping Emission Factor
 
-## ขั้นตอนการ Mapping Emission Factor
-
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-1. กดเมนู Emission Factor
-2. กดเมนู Mapping Emission Factor
-3. เลือกแท็บขอบเขต
-4. ตรวจเช็ครายการที่ต้องการจะ Mapping Emission Factor
-5. กด icon แก้ไข เพื่อเลือก Emission Factor
+## Mapping Emission Factor Procedure
 
 
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือก Emission Factor ที่ต้องการ Mapping กับตัวรายการกิจกรรม
 
 
+1. Press the Emission Factor menu.&#x20;
+2. Press the Mapping Emission Factor menu.
+3. Select the Scope tab&#x20;
+4. Check the items to be mapped for Emission Factor.
+5. Press the icon to select the Emission Factor.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2566-11-01 at 19.14.26.png" alt=""><figcaption></figcaption></figure>
 
-* [x] เมื่อ Mapping Emission Factor เสร็จเรียบร้อยแล้ว ตัว Factor จะถูกนำไปคำนวณการปล่อยก๊าซเรือนกระจกของรายการนั้นๆ
+
+
+
+1. Select the Emission Factor you want to map to the activity list.
+
+
+
+* [x] Once the Emission Factor Mapping is complete, the Factor is used to calculate the greenhouse gas emissions of that item.
