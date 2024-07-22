@@ -47,7 +47,7 @@
 * [💡 Login with Mobile](platformguides-1/undefined-2.md)
 * [📋 Steps for Emission Log](platformguides-1/undefined-3.md)
 * [📋 Emission Log correction](platformguides-1/undefined-4.md)
-* [📇 หน้าโปรไฟล์](platformguides-1/undefined-5.md)
+* [📇 Profile page](platformguides-1/undefined-5.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม ผู้ทวนสอบ <a href="#platformguides" id="platformguides"></a>
 

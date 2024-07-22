@@ -1,7 +1,7 @@
-# 📇 หน้าโปรไฟล์
+# 📇 Profile page
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. กดปุ่มเมนู
-2. กดโปรไฟล์
-3. แสดงข้อมูลโปรไฟล์ สามารถแก้ไขข้อมูลได้
+
+1. Press the menu button
+2. ﻿﻿﻿Press profile
+3. ﻿﻿﻿Show profile information, can edit information
