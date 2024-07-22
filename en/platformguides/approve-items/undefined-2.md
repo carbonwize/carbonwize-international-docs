@@ -1,42 +1,53 @@
-# ขั้นตอนการขอแก้ไขรายการ
+# Step for requesting
 
-## **ขั้นตอนการขอแก้ไขข้อมูลหลังจากอนุมัติรายการแล้ว**
+## Procedure for requesting data correction after the item has been approved
 
-<figure><img src="../../.gitbook/assets/image%20(7)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-* **การขอแก้ไขข้อมูลหลังจากที่อนุมัติรายการไปแล้วจะสามารถขอแก้ไขได้โดย Approver เท่านั้น ส่วนการแก้ไขข้อมูลจะเป็น Admin เท่านั้น**
 
-1. กดเมนูการอนุมัติรายการ
-2. กดแท็บการอนุมัติแล้ว
-3. กดเลือกรายการที่ต้องการขอแก้ไข
 
-<figure><img src="../../.gitbook/assets/image%20(8)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-#### ตรวจเช็คข้อมูลรายการ
+* Sending a request to edit data after the item has been approved Only approvers can send a request to edit data.
+* Only administrators can edit data.
 
-1. ปริมาณ
-2. วันที่ เดือน, ปี
-3. ไฟล์แนบ
-4. กดปุ่มส่งคำขอการแก้ไข
 
-<figure><img src="../../.gitbook/assets/image%20(9)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. สามารถใส่คำอธิบายเพื่อให้ทราบว่าข้อมูลผิด เพื่อที่ Admin จะได้แก้ไขข้อมูลได้ถูกต้อง
-2. กดปุ่มส่งคำขอการแก้ไข
+1. Press the Approval menu.&#x20;
+2. Press the Approval tab.&#x20;
+3. Press to select the item you want to request to edit.
 
-* **เมื่อส่งคำขอการแก้ไขแล้วตัวรายการจะถูกส่งไปให้ Admin แก้ไขเท่านั้น**
 
-<figure><img src="../../.gitbook/assets/image%20(10)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-* **การแก้ไขรายการที่อนุมัติไปแล้วจะสามารถทำได้โดย Admin เท่านั้น**
+#### Check item information
 
-1. เลือกเมนู การอนุมัติรายการ
-2. กดแท็บ รอการแก้ไข
-3. เลือกรายการที่รอการแก้ไข
+1. Date Month Year
+2. ﻿﻿﻿Amount
+3. ﻿﻿﻿Attachments
+4. ﻿﻿﻿Press the disapprove button
 
-<figure><img src="../../.gitbook/assets/image%20(11)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. แก้ไขข้อมูล, ไฟล์แนบ
-2. กดปุ่มบันทึก
 
-* **เมื่อกดบันทึกรายการแล้ว รายการจะอยู่ในแท็บ **<mark style="background-color:green;">**อนุมัติแล้ว**</mark>
+
+
+1. Approver can specify a description indicating that the data is invalid so that the administrator can edit the data.
+2. Press Submit a correction request botton
+
+* Once the edit request is submitted, the item will be sent to the administrator for editing only.
+
+
+
+
+
+* Editing of approved items can only be done by Admin.
+
+1. Press the Approval Item menu
+2. Press the tab, waiting for correction&#x20;
+3. Press items waiting for correction
+
+
+
+
+
+1. Edit data, attachments&#x20;
+2. Press the save button
+
+* When you press save, the item will be in the tab. Approved
