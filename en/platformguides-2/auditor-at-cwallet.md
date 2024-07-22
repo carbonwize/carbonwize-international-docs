@@ -1,19 +1,22 @@
-# 📬 ขั้นตอนการลงทะเบียนเป็น ผู้ทวนสอบ
-
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-1. เข้าลิงก์ [https://app.carbonwize.io/register-auditor](https://app.carbonwize.io/register-auditor) เพื่อลงทะเบียนเป็น Auditor
-2. กรอกข้อมูลการลงทะเบียนให้ครบถ้วน
-3. เมื่อกด Submit แล้ว ตรวจสอบ Email ที่ได้ทำการลงทะเบียนไว้ และรอทาง CarbonWize ติดต่อกลับ
+# 📬 Registration steps as a auditor
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
-
-✅ เมื่อได้รับเมลแจ้งเตือนแล้ว รอทาง Carbonwize ติดต่อและส่งเมลตอบกลับอีกครั้ง
 
 
+1. Enter the linkhttps://app.carbonwize.io/register-auditorTo register as an Auditor
+2. ﻿﻿﻿Fill in the registration information completely.
+3. ﻿﻿﻿Once you press Submit, check your registered email and wait for CarbonWize to contact you.
+4.
 
-<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
-* [x] เมื่อได้รับเมลตอบกลับจาก Carbonwize สามารถเข้าสู่ระบบโดยใช้ password ที่แสดงในเมลได้ทันที
+
+* Once you receive the notification email, wait for Carbonwize to contact you and send you a reply email.
+
+
+
+
+
+
+
+* Once you receive a reply email from Carbonwize, you can immediately log in using the password displayed in the email.

@@ -1,16 +1,18 @@
-# 📬 ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าองค์กรในระบบ
-
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
-
-เมื่อได้รับเมลคำเชิญให้เข้าในระบบขององค์กร
-
-1. ผู้ทวนสอบตรวจสอบ Email และสามารถกด ACCEPT INVITATION เพื่อตอบกลับการเป็นผู้ทวนสอบของบริษัทที่ได้เชิญได้ทันที
+# 📬 Procedure for accepting an invitation to become an auditor in the organization in the system
 
 
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-เมื่อผู้ทวนสอบตอบรับคำเชิญเรียบร้อย
 
-1. บัญชีขององค์กรจะแสดงข้อมูล ชื่อผู้ทวนสอบในหน้าเพิ่มผู้ทวนสอบ
-2. บัญชีผู้ทวนสอบจะสามารถเห็นข้อมูลการทวนสอบ และ ภาพรวมขององค์กรของบริษัทนั้นได้
+When you receive an invitation email to join your organization's system
+
+1. The auditor can check the email and can click ACCEPT INVITATION to immediately respond to the invitation to become an auditor for the invited company.
+
+
+
+
+
+When the examiner has accepted the invitation
+
+1. ﻿﻿﻿The organization account will display the auditor name information on the Add Auditor page.
+2. ﻿﻿﻿The auditor account will be able to view the audit data and the organization overview of the company.

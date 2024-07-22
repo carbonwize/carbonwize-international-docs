@@ -49,10 +49,10 @@
 * [📋 Emission Log correction](platformguides-1/undefined-4.md)
 * [📇 Profile page](platformguides-1/undefined-5.md)
 
-## คู่มือการใช้งานแพลทฟอร์ม ผู้ทวนสอบ <a href="#platformguides" id="platformguides"></a>
+## PLATFORM USER GUIDE AUDITOR <a href="#platformguides" id="platformguides"></a>
 
-* [📬 ขั้นตอนการลงทะเบียนเป็น ผู้ทวนสอบ](platformguides-2/auditor-at-cwallet.md)
-* [📬 ขั้นตอนการตอบรับคำเชิญการเป็นผู้ทวนสอบเข้าองค์กรในระบบ](platformguides-2/undefined-1.md)
+* [📬 Registration steps as a auditor](platformguides-2/auditor-at-cwallet.md)
+* [📬 Procedure for accepting an invitation to become an auditor in the organization in the system](platformguides-2/undefined-1.md)
 * [💻 เข้าสู่ระบบ ผู้ทวนสอบ](platformguides-2/undefined.md)
 * [🗂️ ทวนสอบข้อมูล](platformguides-2/undefined-2/README.md)
   * [📈 ภาพรวมขององค์กร](platformguides-2/undefined-2/undefined-1.md)
