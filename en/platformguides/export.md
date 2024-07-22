@@ -1,19 +1,18 @@
-# 🗂️ Export รายงานข้อมูลทวนสอบ
-
-<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
-
-1. เข้าหน้าทวนสอบข้อมูล
-2. กดปุ่ม Export Report
+# 🗂️ Export Verifying information
 
 
 
-<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
-
-1. เลือกประเภทไฟล์ .PDF, .XLSX
-2. กดปุ่ม ส่งออกข้อมูล
-
+1. Go to the data confirmation page&#x20;
+2. Check the name data want to export
+3. Press the Export Report button
 
 
-<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
-* [x] ข้อมูลทวนสอบที่ Export ออกมาจะแสดงตามประเภทไฟล์ที่เลือก
+
+
+1. Select file type .PDF, XLSX
+2. ﻿﻿﻿Press the Export Data button.
+
+
+
+* [x] Exported will be according to the selected file type.

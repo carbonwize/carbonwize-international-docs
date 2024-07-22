@@ -38,7 +38,7 @@
   * [Custom Emission Factor](platformguides/emission-factor/emission-factor.md)
   * [Mapping Emission Factor](platformguides/emission-factor/ef.md)
 * [🗂️ ทวนสอบข้อมูล](platformguides/undefined-3.md)
-* [🗂️ Export รายงานข้อมูลทวนสอบ](platformguides/export.md)
+* [🗂️ Export Verifying information](platformguides/export.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Mobile <a href="#platformguides" id="platformguides"></a>
 
