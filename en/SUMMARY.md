@@ -11,7 +11,7 @@
 * [🔐 Forgot password](getting-started/undefined-1.md)
 * [💻 Log out](getting-started/undefined-2.md)
 
-## คู่มือการใช้งานแพลทฟอร์ม <a href="#platformguides" id="platformguides"></a>
+## Platform User Guide <a href="#platformguides" id="platformguides"></a>
 
 * [💡 Get started](platformguides/undefined.md)
 * [📈 Organization Overview](platformguides/undefined-1.md)
