@@ -22,7 +22,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-1. Click on the Organization Structure tab
+1. Press on the Organization Structure tab
 2. Press the icon
 
 
