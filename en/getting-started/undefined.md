@@ -1,6 +1,6 @@
 # 💻 Login
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1. Go to the website [https://www.carbonwize.io/](https://www.carbonwize.io/)
 2. Press the button [Login](https://app.carbonwize.io/)
