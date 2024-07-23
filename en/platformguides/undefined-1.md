@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-### Overview page
+## Overview page
 
 1. Shows data on the proportion of greenhouse gas emissions by type.
 
@@ -10,6 +10,6 @@
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-### Insights page
+## Insights page
 
 1. Shows the amount of greenhouse gas emissions proportional to the scope
