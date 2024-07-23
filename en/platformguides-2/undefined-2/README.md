@@ -2,7 +2,7 @@
 
 ## Data verification
 
-<figure><img src="../../.gitbook/assets/image%20(6)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+
 
 
 
@@ -16,62 +16,73 @@
 
 ## Activity list page
 
-<figure><img src="../../.gitbook/assets/image%20(7)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. หน้ารายการกิจกรรมแสดงข้อมูลรายการของบริษัททั้งหมดโดยเรียงตาม scope
-2. สามารถกดในรายการเพื่อดูข้อมูลเพิ่มเติมของรายการนั้นได้
 
-<figure><img src="../../.gitbook/assets/image%20(8)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อกดในรายการแล้ว จะแสดงข้อมูลข้อมูลทั้งหมดของแต่ละเดือน และแสดงเปอร์เซ็นความเปลี่ยนแปลงระหว่างปีก่อนหน้ากับปีปัจจุบัน
-2. สามารถดูเอกสารแนบเพิ่มเติมได้
 
-## หน้าค่าการปล่อยก๊าซเรือนกระจก
+1. The activity list page shows all company activity information sorted by scope.
+2. ﻿﻿﻿You can click on the item to view more information about that item.
 
-<figure><img src="../../.gitbook/assets/image%20(9)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. หน้าค่าการปล่อยก๊าซเรือนกระจกแสดงข้อมูลรายการของบริษัททั้งหมดโดยเรียงตาม scope
-2. สามารถกดปุ่มตามลูกศรเพื่อดูค่า GHG รวม (tCo2eq)
 
-<figure><img src="../../.gitbook/assets/image%20(10)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. เมื่อกดปุ่มตามลูกศรแล้วจะแสดงค่า GHG รวม (tCo2eq) ของรายการนั้น
 
-## หน้าการแบ่งสัดส่วนองค์กร
+1. When you press on the list, it will show all the data for each month and show the change between the previous year and the current year.
+2. You can view additional attached documents.
 
-<figure><img src="../../.gitbook/assets/image%20(11)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+## Emission Factor tab
 
-1. หน้าการแบ่งสัดส่วนองค์กรจะแสดงเปอร์เซ็นการแบ่งสัดส่วนคาร์บอนของแต่ละรายการตาม scope เมื่อแบ่งเปอร์เซ็นแล้ว ผลรวมต้องเท่ากับ 100%
 
-## หน้านัยสำคัญ
 
-<figure><img src="../../.gitbook/assets/image%20(12)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. หน้านัยสำคัญจะแสดงระดับความมีสาระสำคัญของ scope 1-2 เท่านั้น
 
-<figure><img src="../../.gitbook/assets/image%20(13)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+1. The Greenhouse Gas Emissions page shows all company data sorted by scope.
+2. ﻿﻿﻿You can press the arrow keys to view the total GHG values (tCo2eq).
 
-1. ในส่วนของ scope 3 จะแสดงในเรื่องของแหล่งการปล่อยก๊าซตามรายการที่แสดง ในกรณีที่มีการปล่อยก๊าซตามรายการบริษัทจะต้องใส่คะแนนระดับของแรงจูงใจ, โอกาส หรือความเสี่ยง เพื่อประเมินความเสี่ยง
 
-## หน้าการประเมินความไม่แน่นอน
 
-<figure><img src="../../.gitbook/assets/image%20(14)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. หน้าการประเมินความไม่แน่นอนแสดง points ตามเกณฑ์การประเมินของรายการตาม scope นั้น
 
-<figure><img src="../../.gitbook/assets/image%20(15)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+1. When you press the arrow buttons, the total GHG value (tCo2eq) of that item will be displayed.
 
-1. เกณฑ์การประเมิน
 
-## รายงานการแก้ไขข้อบกพร่อง
 
-<figure><img src="../../.gitbook/assets/image%20(16)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-1. กด new เพื่อเพิ่มรายงาน
-2. กรอกข้อมูล ประเด็น
-3. เลือกรายการ ข้อกำหนดที่เกี่ยวข้อง
-4. เมื่อกดบันทึกรายการจะแสดงในหน้ารายงานการแก้ไขข้อบกพร่อง
 
-<figure><img src="../../.gitbook/assets/image%20(17)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+## Significance tan
 
-1. เมื่อมีการตอบกลับจากบริษัทด้วยสถานะ และคำชี้แจ้งแล้ว สามารถบันทึกข้อสรุปของผู้ทวนสอบได้ทันที
+
+
+1\. The significance page will only show the significance level of scope 1-2.
+
+
+
+
+
+
+
+1. In the scope 3 section, it shows the listed emissions sources. In the case of listed emissions, the company must enter a score on the level of incentive, opportunity or risk to assess the risk.
+
+## Measurement uncertainty tab
+
+
+
+
+
+1. The uncertainty assessment page shows points based on the assessment criteria for items in that scope.
+
+
+
+
+
+1. Evaluation criteria
+
+## Correction report tab
+
+
+
+
+
+
+
+1. When a report is received from the auditor, the report can be edited, then the edit status can be updated and clarifications added.
