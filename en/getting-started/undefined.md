@@ -7,8 +7,8 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter email
 2. ﻿﻿﻿Enter password
-3. ﻿﻿﻿Press the login button
+3. ﻿﻿﻿Press the Sign in button
