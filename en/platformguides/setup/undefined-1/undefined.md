@@ -2,7 +2,7 @@
 
 ## Steps adding branches
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the settings menu
 2. Press the branches settings menu
