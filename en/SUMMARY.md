@@ -58,9 +58,9 @@
   * [📈 Organization Overview](platformguides-2/undefined-2/undefined-1.md)
 * [Profile page](platformguides-2/undefined-3.md)
 
-## เกร็ดความรู้ <a href="#tips" id="tips"></a>
+## Trivia <a href="#tips" id="tips"></a>
 
-* [📙 คำศัพท์ที่ควรรู้](tips/vocabulary.md)
+* [📙 Vocabulary you should know](tips/vocabulary.md)
 
 ***
 
