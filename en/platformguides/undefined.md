@@ -1,6 +1,6 @@
 # 💡 Get started
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. Press the Get started button
 
@@ -9,29 +9,24 @@
 
 
 
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select industry type
-2. Press the select button
+2. Press the Choose button
 
 
 
-<mark style="color:blue;">The basic measurement list page only displays basic measurement items. You can delete or add items later (please read the additional function user manual).</mark>
-
-
-
-
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. select to the start date for data collection.
 2. Press the save button
 
+#### The basic measurement list page only displays basic measurement items. You can delete or add items later (please read the additional function user manual).
 
+
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Please wait for the system to set up the usage.
-
-
-
-
-
 * When the system has created the database, the data Emission Log page will appear immediately.
 * You can read about the operation of the system functions in the user manual.
