@@ -15,7 +15,7 @@ The system provides setting options for users to define roles and responsibiliti
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. Press the settings menu
-2. ﻿﻿﻿Press the Manage User Account menu.
+2. ﻿﻿﻿Press the User management menu button.
 3. ﻿﻿﻿Press the Roles and Permissions tab.
 4. ﻿﻿﻿Press the add role button
 
