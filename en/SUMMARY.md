@@ -25,7 +25,7 @@
   * [User account management](platformguides/setup/undefined-3/README.md)
     * [Roles & Permission](platformguides/setup/undefined-3/undefined.md)
     * [Assign task](platformguides/setup/undefined-3/undefined-1.md)
-    * [Add a reviewer](platformguides/setup/undefined-3/undefined-2.md)
+    * [Add Auditor](platformguides/setup/undefined-3/undefined-2.md)
 * [📝 Emission Log](platformguides/data-input.md)
 * [🔀 Import data & Import file](platformguides/import-and-export.md)
 * [🔀 Export data](platformguides/export-data.md)
