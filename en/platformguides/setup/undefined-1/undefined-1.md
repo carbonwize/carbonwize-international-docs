@@ -1,10 +1,8 @@
 # Building structure Settings
 
-### Steps adding building structure
+## Steps adding building structure
 
-
-
-
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the settings menu
 2. Press the organization settings menu
@@ -13,23 +11,23 @@
 
 
 
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 1. Fill in complete building details.
 2. Press the save button
 
 
 
-### Steps Editing Building structure
+## Steps Editing Building structure
 
-
-
-
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 1. Press on the building structure tab
 2. ﻿﻿﻿Press the icon
 
 
 
-
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 1. Edit information
 2. ﻿﻿﻿Press the save button
