@@ -23,7 +23,7 @@
     * [Department Structure Settings](platformguides/setup/undefined-1/undefined-1-1.md)
   * [Activity Inventory](platformguides/setup/undefined-2.md)
   * [User account management](platformguides/setup/undefined-3/README.md)
-    * [Detailed role settings](platformguides/setup/undefined-3/undefined.md)
+    * [Roles & Permission](platformguides/setup/undefined-3/undefined.md)
     * [Assignment of work](platformguides/setup/undefined-3/undefined-1.md)
     * [Add a reviewer](platformguides/setup/undefined-3/undefined-2.md)
 * [📝 Emission Log](platformguides/data-input.md)

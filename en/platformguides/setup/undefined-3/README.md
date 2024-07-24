@@ -2,7 +2,7 @@
 
 ## Steps for adding members
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the menu button set up the usage.&#x20;
 2. Press the User management menu button.
@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter name&#x20;
 2. Enter last name&#x20;
@@ -23,7 +23,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. When you press the Save Member Add button, the system will a popup with the member password. You can press the Copy button to send the login code to the member immediately.
 2. You can choose to force a password change on your next login.
@@ -33,7 +33,7 @@
 
 ## Steps Editing Member
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the member tab&#x20;
 2. Press the icon&#x20;
@@ -43,14 +43,14 @@
 
 ## Procedure for requesting a new password
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the member tab&#x20;
 2. Press the button to request a new password.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. The system will forget the old password and create a new password. You can press the Copy button to send the login code to the member (you can change the password later).
 2. Press the Confirm button
