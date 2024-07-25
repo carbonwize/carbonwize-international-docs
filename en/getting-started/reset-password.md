@@ -1,6 +1,6 @@
 # 🔐 Change password
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the profile menu&#x20;
 2. Press the menu Change password.

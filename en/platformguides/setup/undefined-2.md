@@ -2,7 +2,7 @@
 
 ## Steps creating an Activity Inventory
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the settings menu
 2. Press the activity menu
@@ -10,7 +10,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Select the details of the organization for which you want to create an activity list.
 
@@ -22,7 +22,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select industry type
 2. Select an activity
@@ -34,7 +34,7 @@ Creating an activity inventory can select more than one industry type and activi
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Activity inventory created successfully
 
@@ -50,7 +50,7 @@ Creating an activity inventory can select more than one industry type and activi
 
 ## Steps to delete an activity  (1 item)
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Check the activity list name
 2. Press the icon behind the list.
@@ -60,7 +60,7 @@ Creating an activity inventory can select more than one industry type and activi
 
 ## Steps for deleting activity (more than 1)
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select item
 2. Press the Delete button.
@@ -69,7 +69,7 @@ Creating an activity inventory can select more than one industry type and activi
 
 ## Procedure for duplicating an activity list
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select item
 2. Press the copy button
