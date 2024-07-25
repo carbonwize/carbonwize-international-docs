@@ -12,7 +12,7 @@ The system provides setting options for users to define roles and responsibiliti
 
 ## Steps Addition Role &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the settings menu
 2. ﻿﻿﻿Press the User management menu button.
@@ -21,7 +21,7 @@ The system provides setting options for users to define roles and responsibiliti
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter role name
 2. ﻿﻿﻿Select access permissions for that role.
@@ -31,28 +31,28 @@ The system provides setting options for users to define roles and responsibiliti
 
 ## Steps Editing roles and permissions
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the Roles and Permissions tab.
 2. ﻿﻿﻿Press the icon
 
 
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Edit information
 2. ﻿﻿﻿Press the save button
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the Roles and Permissions tab.
 2. ﻿﻿﻿Press the icon
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the Confirm button
 
@@ -60,14 +60,14 @@ The system provides setting options for users to define roles and responsibiliti
 
 ## Steps for adding members to a role
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the Roles and Permissions tab.
 2. ﻿﻿﻿Press the icon
 
 
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the button to select the member you want to use that role for.﻿﻿﻿
 2. Displaying member names in a role A member must not have a role for the member name to be displayed for selection to add a member to that role.
