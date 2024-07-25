@@ -2,7 +2,7 @@
 
 ## Export data all items
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the menu Emission Log.&#x20;
 2. Press the Export data button.
@@ -13,7 +13,7 @@ Exporting data will take the history of all Emission Log items entered into the 
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select file type&#x20;
 2. Select a time period (If no time period is selected, the system will export all data for all time)&#x20;
@@ -23,7 +23,7 @@ Exporting data will take the history of all Emission Log items entered into the 
 
 
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 • When the data is exported, it will show all the data entered according to the selected time period.
 

@@ -1,6 +1,6 @@
 # 📝 iOS installation steps
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. Go to the link https://m.carbonwize.io/iOS Install via Safari only&#x20;
 2. Press the circle symbol
@@ -8,7 +8,7 @@
 
 
 
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press Add
 
