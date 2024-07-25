@@ -8,7 +8,7 @@ When you receive an invitation email to join your organization's system
 
 
 
-
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 When the examiner has accepted the invitation
 
