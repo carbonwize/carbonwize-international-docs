@@ -1,6 +1,6 @@
 # 📋 ขั้นตอนการเพิ่มข้อมูล
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มกรอกข้อมูล
 2. เลือกอาคาร
@@ -8,7 +8,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเพิ่มข้อมูล
 2. กรอกจำนวน
@@ -16,7 +16,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มบันทึก
 2. ข้อมูลและเอกสารแนบถูกต้อง

@@ -1,6 +1,6 @@
 # 💡 ขั้นตอนการเข้าสู่ระบบ
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเข้า app&#x20;
 2. กรอก Email Address และ password&#x20;

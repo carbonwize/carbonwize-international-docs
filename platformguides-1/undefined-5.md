@@ -1,6 +1,6 @@
 # 📇 หน้าโปรไฟล์
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเมนู
 2. กดโปรไฟล์
