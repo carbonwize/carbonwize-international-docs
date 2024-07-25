@@ -1,8 +1,6 @@
 # 📬 Procedure for accepting an invitation to become an auditor in the organization in the system
 
-
-
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 When you receive an invitation email to join your organization's system
 

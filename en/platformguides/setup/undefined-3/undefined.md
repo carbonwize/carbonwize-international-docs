@@ -21,7 +21,7 @@ The system provides setting options for users to define roles and responsibiliti
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter role name
 2. ﻿﻿﻿Select access permissions for that role.

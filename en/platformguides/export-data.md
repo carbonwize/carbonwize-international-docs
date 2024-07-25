@@ -13,7 +13,7 @@ Exporting data will take the history of all Emission Log items entered into the 
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select file type&#x20;
 2. Select a time period (If no time period is selected, the system will export all data for all time)&#x20;
