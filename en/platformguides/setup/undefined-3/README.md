@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter name&#x20;
 2. Enter last name&#x20;
@@ -23,7 +23,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. When you press the Save Member Add button, the system will a popup with the member password. You can press the Copy button to send the login code to the member immediately.
 2. You can choose to force a password change on your next login.
