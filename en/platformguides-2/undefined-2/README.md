@@ -2,7 +2,7 @@
 
 ## Verifying information
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Show the year of data review
 2. ﻿﻿﻿Displays the status of the company and the auditor
@@ -14,7 +14,7 @@
 
 ## General information of the organization tab
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Displays general information about the organization
 
@@ -28,7 +28,7 @@
 
 ## Required information tab of the report
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Fill in the introduction to display the information in the Report
 2. Fill in additional details of the organization scope (if any) to display the information in the Report
