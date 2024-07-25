@@ -1,10 +1,8 @@
-# Step Item Disapproval
+# Step item disapproval
 
 ## Step Item Disapproval
 
-
-
-
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the approval menu&#x20;
 2. Press the tab, pending approval.&#x20;
@@ -12,11 +10,9 @@
 
 
 
-
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 #### Check item information
-
-
 
 1. Date Month Year
 2. ﻿﻿﻿Amount
@@ -25,23 +21,25 @@
 
 
 
-#### Item not approved
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+
+#### Item disapproval
 
 1. You can provide a description to inform the team if the information is incorrect.
-2. Press the Disapprove button
+2. Press the Save button
 
 
+
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 * When an item is not approved, the item must be edited again.
-
-
 
 1. Press the disapproved tab
 2. ﻿﻿﻿Select the disapproved items to edit the information.
 
 
 
-
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 1. Correct incorrect information
 2. Press the save button
