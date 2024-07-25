@@ -1,8 +1,6 @@
 # 📋 Steps for Emission Log
 
-
-
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. Press the fill in information button.
 2. ﻿﻿﻿Select a building
@@ -10,7 +8,7 @@
 
 
 
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the add data button
 2. ﻿﻿﻿Enter the amount
@@ -18,11 +16,9 @@
 
 
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-
-1. Press the save button
-
-
+1. Press record button
 
 * The information and attachments are correct.
 * Unable to fill in data in advance
