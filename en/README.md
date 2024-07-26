@@ -8,6 +8,6 @@ The Carbonwize platform was developed by Carbonwize Co., Ltd. from environmental
 
 ## First step
 
-{% content-ref url="getting-started/registration.md" %}
-[registration.md](getting-started/registration.md)
+{% content-ref url="getting-started/contact-us.md" %}
+[contact-us.md](getting-started/contact-us.md)
 {% endcontent-ref %}
