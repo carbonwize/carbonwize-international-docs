@@ -4,7 +4,7 @@
 
 ## Basic information <a href="#getting-started" id="getting-started"></a>
 
-* [✍️ Become a partner](getting-started/book-demo.md)
+* [✍️ Become a partner](getting-started/becomepartner.md)
 * [✍️ Contact us](getting-started/registration.md)
 * [💻 Login](getting-started/undefined.md)
 * [🔐 Change password](getting-started/reset-password.md)
