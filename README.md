@@ -8,7 +8,7 @@ Carbonwize คือ แพลทฟอร์มบัญชีคาร์บ�
 
 ## ขั้นตอนแรก
 
-{% content-ref url="getting-started/registration.md" %}
-[registration.md](getting-started/registration.md)
+{% content-ref url="getting-started/contact-us.md" %}
+[contact-us.md](getting-started/contact-us.md)
 {% endcontent-ref %}
 

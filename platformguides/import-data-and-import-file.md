@@ -99,7 +99,7 @@
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### ก่อน Import file ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Import file โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-and-export.md#import-data)
+#### ก่อน Import file ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Import file โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-data-and-import-file.md#import-data)
 
 #### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import file
 
