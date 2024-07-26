@@ -56,11 +56,11 @@
 * [💻 Login Auditor](platformguides-2/login-auditor.md)
 * [🗂️ Verifying information](platformguides-2/verifying-information/README.md)
   * [📈 Organization Overview](platformguides-2/verifying-information/organization-overview.md)
-* [Profile page](platformguides-2/profile-page.md)
+* [💻 Profile page](platformguides-2/profile-page.md)
 
 ## Trivia <a href="#tips" id="tips"></a>
 
-* [📙 Vocabulary you should know](tips/vocabulary-you-should-know.md)
+* [📙 vocabulary](tips/vocabulary.md)
 
 ***
 
