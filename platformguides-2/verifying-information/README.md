@@ -2,7 +2,7 @@
 
 ## หน้าข้อมู​ลทั่วไปขององค์กร
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 #### แสดงข้อมู​ลทั่วไปขององค์กร
 
@@ -16,7 +16,7 @@
 
 ## หน้าข้อมูลที่จำเป็นของรายงาน
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกบทนำเพื่อแสดงข้อมูลใน Report
 2. กรอกรายละเอียดขอบเขตองค์กรเพิ่มเติม (ถ้ามี) เพื่อแสดงข้อมูลใน Report

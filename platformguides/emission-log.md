@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการ**กรอกข้อมูลรายการตรวจวัด <mark style="background-color:green;">**บันทึกร่าง**</mark>
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูกรอกข้อมูลรายการตรวจวัด
 2. ตรวจเช็คชื่อรายการก่อนกรอกข้อมูล
@@ -10,14 +10,14 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจเช็คข้อมูลรายการตรวจวัด
 2. กดปุ่มเพิ่มข้อมูลใหม่
 
 
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกจำนวนปริมาณ
 2. ตรวจเช็ควันที่ เดือน/ปี
@@ -27,7 +27,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อบันทึกร่างสำเร็จ ข้อมูลจะแสดงในหน้าประวัติ สถานะเป็นร่าง
 
@@ -35,7 +35,7 @@
 **ขั้นตอนการแก้ไขข้อมูลบันทึกร่าง**
 -----------------------------------
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจสอบชื่อรายการตรวจวัด
 2. ตรวจสอบวันที่ เดือน/ปี
@@ -56,7 +56,7 @@
 
 ## **ขั้นตอนการส่งคำขออนุมัติจาก บันทึกร่าง**
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจสอบชื่อรายการตรวจวัด
 2. ตรวจสอบวันที่ เดือน/ปี
@@ -65,7 +65,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 1. ตรวจเช็คปริมาณ
 2. ตรวจเช็ควันที่ เดือน/ปี
@@ -75,7 +75,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อส่งคำขออนุมัติแล้วจะแสดงข้อมูลในหน้าประวัติ แล้วจะแสดงสถานะเป็น รออนุมัติ
 * เมื่อสถานะเป็น <mark style="background-color:orange;">รออนุมัติ</mark> จะไม่สามารถแก้ไขข้อมูลได้เนื่องจากข้อมูลถูกส่งคำขออนุมัติไปแล้ว

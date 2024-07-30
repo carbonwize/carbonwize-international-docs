@@ -1,6 +1,6 @@
 # 📋 ขั้นตอนการแก้ไขข้อมูล
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม icon, กดปุ่มแก้ไข
 2. แก้ไขข้อมูล

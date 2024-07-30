@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มอาคาร**
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูตั้งค่าการใช้งาน
 2. กดเมนูตั้งค่าองค์กร
@@ -20,14 +20,14 @@
 
 ## **ขั้นตอนการแก้ไขอาคาร**
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บโครงสร้างอาคาร
 2. กด icon
 
 
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 1. แก้ไขข้อมูล
 2. กดปุ่มบันทึก

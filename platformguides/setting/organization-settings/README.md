@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มองค์กรย่อย**
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูตั้งค่าการใช้งาน
 2. กดเมนูตั้งค่าองค์กร
@@ -20,7 +20,7 @@
 
 ## **ขั้นตอนการแก้ไของค์กร**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บโครงสร้างองค์กร
 2. กด icon

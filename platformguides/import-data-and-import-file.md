@@ -4,7 +4,7 @@
 
 ### ขั้นตอนการเตรียมข้อมูลสำหรับการ Import data
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. สร้างรายการตรวจวัดเสร็จเรียบร้อย
 2. ค้นหารายการที่ต้องการ Import data
@@ -16,9 +16,9 @@
 
 #### หลังจาก Export รายการออกมาแล้ว ให้ใส่ข้อมูลให้ครบถ้วนตาม Format ในไฟล์ที่ได้ทำการ Export ออกมา
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **กรุณาอ่านรายละเอียดและกรอกข้อมูลให้ครบถ้วนก่อน Import data**
 
@@ -37,7 +37,7 @@
 
 ### ขั้นตอนการ Import data
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้ากรอกข้อมูลรายการตรวจวัด
 2. กดปุ่ม Import  หรือ นำเข้า
@@ -63,13 +63,13 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ถัดไป
 
 
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Import data สำเร็จ
 
@@ -79,13 +79,13 @@
 
 ### ขั้นตอนการตรวจเช็คข้อมูลหลังจาก Import data
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Import data สำเร็จ
 
 
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. แสดงชื่อรายการถูกต้อง
 2. แสดงข้อมูล เดือน, จำนวน ถูกต้อง
@@ -97,7 +97,7 @@
 
 ### Import file คือการอัปโหลดไฟล์เอกสารแนบเข้าในรายการกิจกรรม
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ก่อน Import file ต้องมีการกรอกข้อมูลไว้ตามเดือนที่ต้องการ Import file โดยสถานะข้อมูลต้องเป็นร่าง หากข้อมูลเยอะสามารถทำตามขั้นตอน [Import data](import-data-and-import-file.md#import-data)
 
@@ -142,7 +142,7 @@
 
 ### ขั้นตอนการ Import file
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้ากรอกข้อมูลรายการตรวจวัด
 2. กดปุ่ม Import หรือ นำเข้า
@@ -150,25 +150,25 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. คลิ๊กเพื่อเลือกไฟล์
 
 
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกไฟล์ .zip ที่ได้เตรียมไว้
 
 
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่ม ถัดไป
 
 
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Import file สำเร็จ
 
@@ -176,13 +176,13 @@
 
 ### ขั้นตอนการตรวจเช็คข้อมูลหลังจาก Import file
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เข้าหน้ากรอกข้อมูลของรายการตรวจวัดที่ได้ Import file สำเร็จ
 
 
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2567-02-27 at 14.15.00.png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มสาขา**
 
-<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 1. กดเมนูตั้งค่าการใช้งาน
 2. กดเมนูตั้งค่าองค์กร
@@ -20,7 +20,7 @@
 
 ## ขั้นตอนการแก้ไขสาขา
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บสาขา
 2. กด icon

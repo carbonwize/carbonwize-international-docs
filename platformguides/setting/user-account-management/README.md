@@ -2,7 +2,7 @@
 
 ## **ขั้นตอนการเพิ่มสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเมนูตั้งค่าการใช้งาน
 2. กดปุ่มเมนูจัดการบัญชีผู้ใช้
@@ -11,7 +11,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกชื่อ
 2. กรอกนามสกุล
@@ -23,7 +23,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 1. เมื่อกดปุ่มบันทึกการเพิ่มสมาชิกแล้ว ระบบจะแสดง popup รหัสผ่านของสมาชิก สามารถกดปุ่ม คัดลอก เพื่อส่งรหัสในการเข้าใช้ระบบให้กับสมาชิกได้ทันที
 2. สามารถเลือกการบังคับเปลี่ยนรหัสผ่านในการเข้าสู่ระบบครั้งถัดไปได้
@@ -33,7 +33,7 @@
 
 ## **ขั้นตอนการแก้ไขสมาชิก**
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บสมาชิก
 2. กด icon
@@ -43,7 +43,7 @@
 
 ## **ขั้นตอนการขอรหัสผ่านใหม่**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 1. กดแท็บสมาชิก
 2. กดปุ่มขอรหัสผ่านใหม่&#x20;
