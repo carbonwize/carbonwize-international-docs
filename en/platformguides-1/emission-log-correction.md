@@ -1,8 +1,8 @@
 # 📋 Emission Log correction
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-1. Press the icon button, press the edit button&#x20;
+1. Press the icon button, press the edit button
 2. Edit information
 3. Press the save button
 

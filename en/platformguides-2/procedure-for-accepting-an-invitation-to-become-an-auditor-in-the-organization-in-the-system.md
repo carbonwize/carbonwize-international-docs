@@ -1,14 +1,12 @@
 # 📬 Procedure for accepting an invitation to become an auditor in the organization in the system
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 When you receive an invitation email to join your organization's system
 
 1. The auditor can check the email and can click ACCEPT INVITATION to immediately respond to the invitation to become an auditor for the invited company.
 
-
-
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 When the examiner has accepted the invitation
 

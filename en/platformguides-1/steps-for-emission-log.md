@@ -1,22 +1,18 @@
 # 📋 Steps for Emission Log
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the fill in information button.
 2. ﻿﻿﻿Select a building
 3. ﻿﻿﻿Select item
 
-
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the add data button
 2. ﻿﻿﻿Enter the amount
 3. ﻿﻿﻿Click the Attach Reference Document button (if any). You can select the attachment format.
 
-
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 1. Press record button
 

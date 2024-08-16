@@ -1,14 +1,12 @@
 # 📈 Organization Overview
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 ## Overview page
 
 1. Shows data on the proportion of greenhouse gas emissions by type.
 
-
-
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 ## Insights page
 
